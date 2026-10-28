@@ -1,0 +1,374 @@
+{
+ "date": "2026-10-29",
+ "groups": [
+  {
+   "title": "Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
+   "summary": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "20年前は“門前払い”？　デル社長が語る、日本企業の今昔　「IT後進国」から抜け出せたのか",
+   "summary": "日本企業は、IT導入で「遅れている」と言われがちだった。しかし、AIの登場で状況が変わっている。デル・テクノロジーズ社長が、その実態を語った。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/29/news023.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX",
+   "summary": "属人化しがちな経理業務。創業90年超のメーカーは、欠員をきっかけにIT導入を決断し、今では経費申請の約9割をAIが承認している。同社の“堅実な取り組み”に迫る。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/29/news033.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI導入から成果創出へ　デル・テクノロジーズ新社長が示す日本市場の事業戦略",
+   "summary": "デル・テクノロジーズは、2026年8月に代表取締役社長に就任したジョン・ロボトム氏の記者会見を開催した。ロボトム氏は、日本企業のAI活用が導入段階から成果創出へと移行しつつあるとの認識を示し、AIインフラやデータ基盤の整備、人材育成、パート",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
+   "summary": "2027年度以降、IT国家試験の大幅な刷新が予定されている。企業のIT現場はこの変化をどう見ているのか。読者調査から、制度刷新への期待と懸念、資格取得意向の変化、AI・セキュリティなど今後重視されるスキルを探る。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ",
+   "summary": "イスラエルのセキュリティ企業によれば、悪意のある「AGENTS.md」が仕込まれたダウンロードフォルダでコーディングエージェントを起動すると、エージェントがマルウェアをインストールしたり、アカウント乗っ取りを支援したりする恐れがある。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに",
+   "summary": "パナソニックグループで、従業員や元従業員とその家族約33万人分の個人情報が、社内で利用を禁止している外部の生成AIサービスにアップロードされた。同グループは、データについて「今後二次利用されない」と説明する。その根拠は何か。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Notion AIの「クレジット制」導入は改悪か？　コスト最適化のヒケツを開発責任者に聞いた",
+   "summary": "Notion AIが、毎月付与されるクレジットを消費して使う仕組みに移行する。利用コストを抑えるには何が必要か。開発を率いるシール・イェホシュア氏は「クリーンなコンテキストほど安くなる」と語る。その実践法を聞いた。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002666/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ロボット実機で実践的に学べる、リョーサン菱洋「フィジカルAI入門パッケージ」",
+   "summary": "リョーサン菱洋は、ロボット実機を用いて実践的にフィジカルAIを学べる「フィジカルAI入門パッケージ」の提供を開始した。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news040.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropic、独自の“創薬活動”に着手　社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
+   "summary": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI音声の詐欺電話、6人に1人が応じる可能性　だまされやすい手口とは　米ハーバード大やMetaが4100人で検証",
+   "summary": "米ハーバード大学や米Metaなどに所属する研究者らが発表した論文「Evaluating AI Models’ Capability to Automate Voice Phishing Attacks」は、AIによる詐欺電話によってどれくら",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表　オンプレでDeep Research対応　API無料プランも開始",
+   "summary": "Preferred Networksが国産の生成AI基盤モデル「PLaMo 3.1 Prime」を提供開始。オンプレミスでも使える「Deep Research」を搭載し、ハルシネーションも抑えたという。API無料プランで試せる。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Discord、公開サーバの会話をGoogle検索などの対象に　プライバシーへの懸念も",
+   "summary": "Discordは、一部の公開サーバーにおける会話をWeb検索の対象にすると発表した。11月中旬からAI要約を公開し、12月中旬から投稿本文も検索可能にする。情報検索性を高める狙いだが、プライバシーやAI学習への利用懸念も噴出。日本は初期設定",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
+   "summary": "リコーとリコージャパンは、360度カメラで撮影した映像から、欠損の少ない高精細な3Dモデルを生成する技術を東京電力パワーグリッドの建物保全業務に導入し、運用を開始した。独自の位置推定技術とAIを組み合わせ、画像上の特徴が少ない壁面や床面など",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+   "summary": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Meta",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
+   "summary": "国内で「AIデータセンター」の建設が相次いでいる。その立地は、工場跡地、廃校、洋上などさまざまだ。ユニークな立地戦略の狙いを考察する。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AI開発、“外注”しても大丈夫？」──丸投げで失敗するケースも　絶対に「手放してはいけないもの」とは",
+   "summary": "AI開発を外注したら、委託先の試験では90点なのに社内では使い物にならない――こんな悩みをどう解決すればよいのか。そもそも、外注してもよいのか。失敗しないAI導入のコツを整理する。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/28/news011.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日本取引所、金融市場の取引システム運用監視にAIを導入　精度97％を実現した方法",
+   "summary": "システムの複雑化に伴い、障害対応の属人化が深刻化している。そうした中、JPXと日立は金融市場における取引システムの運用監視業務にAIの本格適用を開始した。ミッションクリティカルなシステム運用にAIを組み込む上で最大の障壁となるハルシネーショ",
+   "link": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
+   "summary": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビ",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無料で災害や非常時にオフラインで動作できるサバイバル知識満載のAIアシスタント「Survival LLM」、停電時の食料の安全な保管方法・火傷の手当て方法・水の浄化方法などを信頼できる情報源から回答し出典も表示可能",
+   "summary": "「Survival LLM」はインターネット接続がない状況でも利用できる無料のAIアシスタントです。ユーザー自身のコンピューター上で完全に動作するためプライバシーが保護され、オフラインでの利用が可能です。停電時の食品の安全な保存方法や応急処",
+   "link": "https://gigazine.net/news/20261029-survival-llm/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？",
+   "summary": "OpenAIとAnthropicが2026年夏から秋にかけて大規模言語モデル(LLM)の利用料金を相次いで引き下げました。この値下げについてデータサイエンティストのマックス・ウルフ氏は、別のモデルに乗り換えやすいことと、モデルの重みを公開す",
+   "link": "https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析",
+   "summary": "AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security In",
+   "link": "https://gigazine.net/news/20261028-claude-mythos-5-failure/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Firefox 159」正式版リリース、保存済みパスワードへのアクセスが簡単に",
+   "summary": "ウェブブラウザ「Firefox 159」の正式版が公開されました。一部の国で提供されているAI機能「Smart Window」にウェブページを監視して商品の値下げや再入荷を通知する機能が追加されたほか、macOS版では複数のタブをまとめて共",
+   "link": "https://gigazine.net/news/20261028-firefox-159/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「エルヴィス・プレスリーの曲がAI学習に無断使用された」と60億円超の損害賠償をAnthropicに求める訴訟が提起される",
+   "summary": "エルヴィス・プレスリーは「キング・オブ・ロックンロール」と称される伝説的ロックスターであり、記事作成時点でも根強い人気を誇っています。そんなプレスリーの著作権を所有する企業や団体が、Claudeを開発するAnthropicがAIモデルの学習",
+   "link": "https://gigazine.net/news/20261028-elvis-presley-anthropic-lawsuit-ai-music/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート",
+   "summary": "AppleがiPhone・iPad・Macで使えるクリエイター向けツールコレクション「Apple Creator Studio」のアップデートを発表しました。Apple Creator Studio向けアップデートは2026年11月にApp",
+   "link": "https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPTが娘に発作治療薬の服用をやめるよう指示したとして両親がOpenAIを提訴",
+   "summary": "OpenAIが2024年5月に発表したAIモデルのGPT-4oが、てんかんを患っていたボーウェン・ワンさんに抗てんかん薬の服用を減らすようアドバイスした結果、ボーウェンさんが突然死したとして同氏の両親がOpenAIを提訴しました。続きを読む",
+   "link": "https://gigazine.net/news/20261028-parents-sue-openai-alleging-gpt-4o/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能",
+   "summary": "Google DeepMindが2026年10月27日に世界シミュレーションAI「Genie 4」を発表しました。Genie 4はユーザーの操作に応じて仮想世界をリアルタイムで生成するAIで、従来モデルと比べて映像や人物の動きがリアルになっ",
+   "link": "https://gigazine.net/news/20261028-google-genie-4/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
+   "summary": "GIGAZINEではガジェットやAI、ゲーム、アニメ、食などさまざまな分野の記事を掲載しています。そんなGIGAZINE読者がどんな分野に深く関心を持っているのかを調べるため、2026年夏に実施した読者アンケートで「あなたは何オタクですか？",
+   "link": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+   "summary": "「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動",
+   "link": "https://gigazine.net/news/20261028-colorfigures/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
+   "summary": "AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。続きを読む.",
+   "link": "https://gigazine.net/news/20261028-cve-tracker/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説",
+   "summary": "2026年9月8日、Cloudflare Workers AIでホストされているGLM-5.3モデル(@cf/zai-org/glm-5.3)においていわゆる「テナント分離問題」が発生していることがセキュリティ研究者のガディ・エヴロン氏によ",
+   "link": "https://gigazine.net/news/20261028-kv-cache-exposure-remediation/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+   "summary": "AIの進化は、来るところまで来てしまったようだ。サイバー攻撃への応用である。24時間365日、AIは休まず働き続け、脆弱性を発見する。そこを突く攻撃ツールの生成にもAIが威力を発揮してしまっている。",
+   "link": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+   "source": "INTERNET Watch",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用（後編）【自宅Wi-Fiの“わからない”をスッキリ！】",
+   "summary": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
+   "link": "https://internet.watch.impress.co.jp/docs/column/homewifi/2151171.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI時代、国内の電機大手各社が示してきた方向性――「CEATEC 2026」展示ブースレポートで振り返る【CEATEC 2026】",
+   "summary": "10月13日～16日に幕張メッセで開催された電子情報技術の総合展「CEATEC 2026」。“フィジカルAI元年”とも言われた今年の同展示会において、国内の電機大手各社がどのような展示を行い、それぞれの取り組みについてどのような方向性を提示",
+   "link": "https://internet.watch.impress.co.jp/docs/event/2151823.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "LINEヤフー、広告・販促を支援する法人向けAIエージェント「Agent i Biz」提供開始",
+   "summary": "LINEヤフー株式会社は10月27日、広告や販促などを支援する法人向けAIエージェント「Agent i Biz」の提供を開始した。提供開始時点では無償だが、将来的な料金体系や提供条件は検討中としている。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2151645.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "完全一新したアマゾン「Alexa+」日本上陸 自然な会話とタスク実行が当面無料",
+   "summary": "アマゾンは、次世代AIアシスタントサービス「Alexa+(アレクサプラス)」の早期アクセスプログラムを日本でスタートした。日本の文化や習慣を理解し、より自然な会話やタスクの実行などに対応したパーソナルアシスタントとなる。当面は無料で提供し、",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152023.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "LINEヤフー、AIで食事管理　写真から栄養バランスを確認",
+   "summary": "LINEヤフーは、AIエージェント「Agent i」で、食事の記録や栄養分析、食生活へのアドバイスを行なう「食事管理」エージェントの提供を開始した。Agent i上で利用できるほか、専用のLINE公式アカウントと連携すると、LINEのトーク",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151975.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アップルのサブスク「Creator Studio」が大幅強化　KeynoteにもAI機能",
+   "summary": "アップルは27日、クリエイティブアプリのサブスクリプションサービス「Apple Creator Studio」のアップデートを発表した。動画編集の「Final Cut Pro」や音楽制作の「Logic Pro」の強化に加え、プレゼンテーショ",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151857.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "“指示待ちAI”からの脱却　Metaが語るパーソナルAI「Muse」",
+   "summary": "MetaのAIエージェント「Muse(ミューズ)」は、従来のチャットボットと何が違うのか。Metaは23日に日本でMuseの提供を開始し、27日(現地時間)にはシンガポールにも展開。利用者の目標や好みを理解し、日常生活を自発的に支援するAI",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151851.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル「Genie 4」、操作できるリアル世界シミュレート",
+   "summary": "Google DeepMindは27日(米国時間)、ワールドモデル「Genie 4」を発表した。テスター向けに提供されており、今後、Google AI Ultraを契約しているProject Genieの加入者、Gemini APIとGoo",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151850.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ドコモ、“睡眠の質”をスマホだけで推定するAI",
+   "summary": "NTTドコモは、スマートフォンに蓄積された画面操作や位置情報などの利用状況からユーザーの“睡眠の質”を推定可能な「睡眠の質推定AI」を開発した。「HealthTech基盤」の新機能として10月から提供を開始している。また、NTTドコモビジネ",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151616.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
