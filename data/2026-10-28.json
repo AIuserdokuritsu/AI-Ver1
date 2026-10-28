@@ -1,0 +1,356 @@
+{
+ "date": "2026-10-28",
+ "groups": [
+  {
+   "title": "AI音声の詐欺電話、6人に1人が応じる可能性　だまされやすい手口とは　米ハーバード大やMetaが4100人で検証",
+   "summary": "米ハーバード大学や米Metaなどに所属する研究者らが発表した論文「Evaluating AI Models’ Capability to Automate Voice Phishing Attacks」は、AIによる詐欺電話によってどれくら",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "PFNの国産フラグシップモデル「PLaMo 3.1 Prime」発表　オンプレでDeep Research対応　API無料プランも開始",
+   "summary": "Preferred Networksが国産の生成AI基盤モデル「PLaMo 3.1 Prime」を提供開始。オンプレミスでも使える「Deep Research」を搭載し、ハルシネーションも抑えたという。API無料プランで試せる。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Discord、公開サーバの会話をGoogle検索などの対象に　プライバシーへの懸念も",
+   "summary": "Discordは、一部の公開サーバーにおける会話をWeb検索の対象にすると発表した。11月中旬からAI要約を公開し、12月中旬から投稿本文も検索可能にする。情報検索性を高める狙いだが、プライバシーやAI学習への利用懸念も噴出。日本は初期設定",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
+   "summary": "リコーとリコージャパンは、360度カメラで撮影した映像から、欠損の少ない高精細な3Dモデルを生成する技術を東京電力パワーグリッドの建物保全業務に導入し、運用を開始した。独自の位置推定技術とAIを組み合わせ、画像上の特徴が少ない壁面や床面など",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+   "summary": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Meta",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AIデータセンター」どこに作る？　工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
+   "summary": "国内で「AIデータセンター」の建設が相次いでいる。その立地は、工場跡地、廃校、洋上などさまざまだ。ユニークな立地戦略の狙いを考察する。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AI開発、“外注”しても大丈夫？」──丸投げで失敗するケースも　絶対に「手放してはいけないもの」とは",
+   "summary": "AI開発を外注したら、委託先の試験では90点なのに社内では使い物にならない――こんな悩みをどう解決すればよいのか。そもそも、外注してもよいのか。失敗しないAI導入のコツを整理する。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/28/news011.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日本取引所、金融市場の取引システム運用監視にAIを導入　精度97％を実現した方法",
+   "summary": "システムの複雑化に伴い、障害対応の属人化が深刻化している。そうした中、JPXと日立は金融市場における取引システムの運用監視業務にAIの本格適用を開始した。ミッションクリティカルなシステム運用にAIを組み込む上で最大の障壁となるハルシネーショ",
+   "link": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
+   "summary": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビ",
+   "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "IPO目論見書に「AIは人類の存亡リスク」「コードの9割はClaude製」　Anthropicが示した規格外の見立て",
+   "summary": "米Anthropicは10月26日（現地時間）、IPOの目論見書（Form S-1）を米SECに提出した。社内コードの9割超をAIが書き、AI利用額が人件費を上回るといった活用の実態から、AIが人類にもたらし得るリスクまで、多岐にわたって言",
+   "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002644/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
+   "summary": "人口減少に伴う将来的な人手不足を見据え、職員約7000?8000人の業務効率化に挑む京都府庁。限られた人員で増え続ける行政ニーズに応えるため、同庁が着目したのが生成AIだ。しかし、対話型AIを全庁導入しただけでは、現場の業務負担は解消し切れ",
+   "link": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に　7000人以上で実験",
+   "summary": "ドイツのベルリン工科大学などに所属する研究者らが発表した論文「A Large-Scale Study of Personalized Phishing using Large Language Models」は、AIが生成するスピアフィッシ",
+   "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "HISが月100時間を削減　AIエージェントで法人出張の見積もり、どう自動化した？",
+   "summary": "HISが、法人出張の見積もり業務にAIエージェントとロボットを導入し、月100時間の業務時間削減につなげた。2023年ごろからAIによる効率化を試し、目指す精度を得られずにいたHISの転機になったのは何か。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「若手はAI使うな」は“老害”なのか？　新人教育で「AI禁止」した企業の1年後",
+   "summary": "約1年前、新人教育を目的にAI禁止施策を採用したいえらぶGROUP。現在の状況は……？",
+   "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002585/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI活用が進むほど、物理シミュレーションの重要性は高まる",
+   "summary": "秋は、海外ベンダーの日本向けイベントが続きますね。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news017.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "コスパ重視の「GPT-6.1 Terra」新登場　コスト10分の1で一部Astraと同等性能うたう",
+   "summary": "OpenAIがコスパ重視の新モデル「GPT-6.1 Terra」を発表。最上位の「GPT-6 Astra」と一部同等の性能を、10分の1のコストで実現するとうたう。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」",
+   "summary": "サイボウズの調査によると、今後3年間でAI投資を増やす大企業が7割に上る一方で、AIコストを全社で把握できている企業は3割に届かないという。“AIコスト激増時代”における実態に迫る。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIで「月○○時間削減」それ本当？　浮いた時間はどこに消えたのか",
+   "summary": "AI導入によって「月数千時間を削減しました」――こんな“華麗な成果”を示しても、人件費が減るわけでなはい。浮いた時間はどこに消えたのか。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/27/news016.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能",
+   "summary": "Google DeepMindが2026年10月27日に世界シミュレーションAI「Genie 4」を発表しました。Genie 4はユーザーの操作に応じて仮想世界をリアルタイムで生成するAIで、従来モデルと比べて映像や人物の動きがリアルになっ",
+   "link": "https://gigazine.net/news/20261028-google-genie-4/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
+   "summary": "GIGAZINEではガジェットやAI、ゲーム、アニメ、食などさまざまな分野の記事を掲載しています。そんなGIGAZINE読者がどんな分野に深く関心を持っているのかを調べるため、2026年夏に実施した読者アンケートで「あなたは何オタクですか？",
+   "link": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+   "summary": "「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動",
+   "link": "https://gigazine.net/news/20261028-colorfigures/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
+   "summary": "AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。続きを読む.",
+   "link": "https://gigazine.net/news/20261028-cve-tracker/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説",
+   "summary": "2026年9月8日、Cloudflare Workers AIでホストされているGLM-5.3モデル(@cf/zai-org/glm-5.3)においていわゆる「テナント分離問題」が発生していることがセキュリティ研究者のガディ・エヴロン氏によ",
+   "link": "https://gigazine.net/news/20261028-kv-cache-exposure-remediation/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」",
+   "summary": "プログラムの不具合をAIに相談すると修正方法を教えてくれるのが一般的ですが、あえて答えを教えずに質問を繰り返すデバッグツール「Nietzschian Debugger」がGitHubで公開されています。開発者自身に不具合の原因を考えさせるこ",
+   "link": "https://gigazine.net/news/20261027-nietzschian-debugger/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである",
+   "summary": "現地時間の2026年10月26日、OpenAIが数学・コンピューターサイエンス・物理学における調和解析・計算複雑性理論・場の量子論に関する新たな発見を発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261027-openai-three-new-discoveries/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ベイブレードXの「ベイバトルパス」をリバースエンジニアリングして独自アプリを開発、AIがシュートの強さを評価してアドバイス",
+   "summary": "タカラトミーの玩具「ベイブレードX」でシュートの強さを記録できる周辺機器「ベイバトルパス」の通信データを解析し、シュートの結果をリアルタイムで表示する独自アプリを開発した人物がその制作過程を公開しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261027-bayblade-x-reverse-engineering/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Microsoftが全従業員の4分の1に相当する6万人を対象とする自主退職制度を発表、AI投資による財政圧迫が理由か",
+   "summary": "MicrosoftはAIによる効率化推進の一環として、全従業員の4分の1に相当する約6万人の従業員向けに、自主退職制度を発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261027-microsoft-offers-buy-out-quarter-of-workforce/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIブームでデータセンター向け機材の窃盗が相次ぐ、被害総額は6月以降だけで150億円以上",
+   "summary": "アメリカのNBCニュースが、「2026年6月以降、1億ドル(約157億円)以上のデータセンター向け機材が盗まれた」と報じました。NBCニュースは複数の関係者に取材してその手口を伝えています。続きを読む...",
+   "link": "https://gigazine.net/news/20261027-ai-gear-stealing/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+   "summary": "中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。",
+   "link": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI時代、国内の電機大手各社が示してきた方向性――「CEATEC 2026」展示ブースレポートで振り返る【CEATEC 2026】",
+   "summary": "10月13日～16日に幕張メッセで開催された電子情報技術の総合展「CEATEC 2026」。“フィジカルAI元年”とも言われた今年の同展示会において、国内の電機大手各社がどのような展示を行い、それぞれの取り組みについてどのような方向性を提示",
+   "link": "https://internet.watch.impress.co.jp/docs/event/2151823.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "LINEヤフー、広告・販促を支援する法人向けAIエージェント「Agent i Biz」提供開始",
+   "summary": "LINEヤフー株式会社は10月27日、広告や販促などを支援する法人向けAIエージェント「Agent i Biz」の提供を開始した。提供開始時点では無償だが、将来的な料金体系や提供条件は検討中としている。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2151645.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ドコモ、“睡眠の質”をスマホだけで推定するAI",
+   "summary": "NTTドコモは、スマートフォンに蓄積された画面操作や位置情報などの利用状況からユーザーの“睡眠の質”を推定可能な「睡眠の質推定AI」を開発した。「HealthTech基盤」の新機能として10月から提供を開始している。また、NTTドコモビジネ",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151616.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Genspark、文章だけでAIで動画制作できる「Media Studio」",
+   "summary": "Gensparkは27日、文章で指示するだけで脚本から映像、音声、編集、字幕まで一括して制作できるAI動画制作スタジオ「Genspark AI Media Studio」を公開した。動画編集の専門知識や経験がなくても、AIを使って一連の動画",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151611.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "iOS 27.2公開　Siri AI対応やカメラのSiriモードなど",
+   "summary": "アップルは27日、最新のiOS「iOS 27.2」を公開した。新しいAIアシスタント「Siri AI」対応が最大の特徴で、より自然な会話ができるほか、ユーザーの文脈を把握しながら、次のアクションをすすめるなどの機能を実現する。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151544.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "東京メトロ、保守作業車にAI搭載の支援システム",
+   "summary": "東京地下鉄(東京メトロ)は27日、カメラとAI画像認識技術を組み合わせた運転者支援システム「ポイントAI(アイ)」を導入すると発表した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151594.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ドコモ、人に配慮して動くロボットへ　フィジカルAI連携基盤を開発",
+   "summary": "NTTドコモは、個人向けのAIエージェントとさまざまなロボットをつなぐ「Physical AI連携基盤」を開発した。利用者の属性や周囲の状況に応じてロボットの動作を制御し、人の生活空間で安全かつ快適に利用できる環境を目指す。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151583.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "PFN、調査業務に対応した国産AI最新版「PLaMo 3.1 Prime」",
+   "summary": "Preferred Networks(PFN)は、国内でフルスクラッチ開発する生成AI基盤モデル「PLaMo」の最新フラッグシップモデル「PLaMo 3.1 Prime」の提供を開始した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151518.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPT、仕事での利用が多様化　日本では「計画・意思決定」が最多",
+   "summary": "OpenAIは26日、ChatGPTが仕事でどのように利用されているかを示す統計データ「OpenAI Signals v3.0」を公開した。約100カ国を対象に、ChatGPTで行なわれる作業を165種類に分類。国ごとの利用傾向や時間による",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151504.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Siri AIついに日本でスタート　画面や文脈を見てユーザー支援",
+   "summary": "アップルは27日、iPhoneやiPad、Macなどで動作するAIアシスタント機能「Siri AI」を日本でベータ版として提供開始した。日本語を含む5つの言語でSiri AIに対応し、より自然な会話ができるようになり、ユーザーがこれまで以上",
+   "link": "https://www.watch.impress.co.jp/docs/news/2151434.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
