@@ -1,0 +1,343 @@
+{
+ "date": "2026-10-30",
+ "groups": [
+  {
+   "title": "Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
+   "summary": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2152097.html"
+    }
+   ]
+  },
+  {
+   "title": "物理ソルバーからMODSIM、AIへ　SIMULIAが描く次世代の設計／シミュレーション",
+   "summary": "ダッソー・システムズは「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、SIMULIAブランドの戦略を支える物理ソルバー、MODSIM、AIの3層構造を紹介。エンジニアと協働するAI",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "見積書100枚超をどうさばく？　「半日仕事」を約30分にした建設会社のAI活用",
+   "summary": "協力会社ごとに書式が異なる見積書の転記作業に、建設現場は多くの時間を費やしてきた。沖縄県の福地組はAI文書処理サービスを活用し、見積書1枚当たりの処理時間を10?15分から約1分に短縮した。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
+   "summary": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長",
+   "summary": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIチャットが勧める広告商品、選択率が約3倍に　こっそり他商品けなし誘導　米研究者らが検証",
+   "summary": "米プリンストン大学に所属する研究者らが4月に発表した論文「Commercial Persuasion in AI-Mediated Conversations」は、オンラインショッピングなどにおける対話型AIによる説得が消費者の選択をどれほ",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
+   "summary": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は",
+   "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
+   "summary": "2027年度以降、IT国家試験の大幅な刷新が予定されている。企業のIT現場はこの変化をどう見ているのか。読者調査から、制度刷新への期待と懸念、資格取得意向の変化、AI・セキュリティなど今後重視されるスキルを探る。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI半導体市場「メガサイクル局面だ」　アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
+   "summary": "半導体試験装置メーカー大手のアドバンテストは、AIブームによる半導体需要を追い風に、2026年度の通期業績予想を売上高1兆8630円に上方修正した。「メガサイクル」に突入した半導体市場を支えるものは何か。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエージェントは「増やせば賢くなる」のか　Metaとハーバード大の研究が示す“分業の条件”",
+   "summary": "AIエージェントは増やせば増やすほど賢くなるのか。米Metaや米ハーバード大学などの研究者による論文を基に、AI同士の分業が力を発揮する条件や、分業を企業に取り入れる際のポイントなどを解説する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002632/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "KDDI傘下、社内のAI活用事例113件を無料公開　「Gemini Notebook」で稟議データのチェック支援も",
+   "summary": "KDDIグループのKDDIアイレットが、社内のAI活用事例113件をまとめた特設サイトを無料で公開している。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002685/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "製造業のAIネイティブ化の道筋は？　将来のAIの役割から「逆算」で診断するサービスが登場",
+   "summary": "AI活用を個人タスクの効率化にとどまらず、価値創出の仕組みをAI中心に再設計する「AIネイティブ企業」が現れ始めた。製造業はどのような姿を目指し、何から取り組むべきか。将来のAIの役割から「逆算」して各社の道筋を描く診断サービスとは。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/29/news011.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "20年前は“門前払い”？　デル社長が語る、日本企業の今昔　「IT後進国」から抜け出せたのか",
+   "summary": "日本企業は、IT導入で「遅れている」と言われがちだった。しかし、AIの登場で状況が変わっている。デル・テクノロジーズ社長が、その実態を語った。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/29/news023.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "月末に「600行の承認作業」が集中……「紙とハンコ」「現金手渡し」の経費申請を変えた、老舗メーカーの経理DX",
+   "summary": "属人化しがちな経理業務。創業90年超のメーカーは、欠員をきっかけにIT導入を決断し、今では経費申請の約9割をAIが承認している。同社の“堅実な取り組み”に迫る。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/29/news033.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI導入から成果創出へ　デル・テクノロジーズ新社長が示す日本市場の事業戦略",
+   "summary": "デル・テクノロジーズは、2026年8月に代表取締役社長に就任したジョン・ロボトム氏の記者会見を開催した。ロボトム氏は、日本企業のAI活用が導入段階から成果創出へと移行しつつあるとの認識を示し、AIインフラやデータ基盤の整備、人材育成、パート",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み",
+   "summary": "AIモデルは基本的に学習完了時までの知識しか備えておらず、学習完了後の知識はウェブ検索機能などで補うことになります。新たに、GoogleがAIに「睡眠フェーズ」を導入して継続的な知識習得を可能にする研究成果を発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261030-ai-sleep-knowledge/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた",
+   "summary": "ローカルAIはGPUの性能が重要ですが、AIを使いたいPCすべてに高性能なGPUを搭載すると費用がかさんでしまいます。そこで1台の高性能PCをAIサーバーにし、ほかのPCからAIを利用できる環境を構築してみます。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-ollama-open-webui-local-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIの利用を宗教的理由で免除された人間",
+   "summary": "ケンタッキー大学の職員が、業務でAIを使うよう求められたことに対して宗教上の理由による免除措置を申請し、認められました。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-religious-exemption-from-ai/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される",
+   "summary": "AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみら",
+   "link": "https://gigazine.net/news/20261029-anti-ai-words-in-script/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起",
+   "summary": "AI大手のAnthropicが自社モデルのClaudeをトレーニングするため、10人以上のスタンフォード大学教授の研究成果を違法に盗用したとして、スタンフォード大学教授らから訴訟を起こされています。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-anthropic-stanford-professors/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "スマホで動作する小型高性能なAIモデル群「LFM3」が登場、言語モデル・視覚言語モデル・音声モデル・オムニモデル・意思決定モデルを含む次世代モデル",
+   "summary": "AI企業のLiquid AIが小型AIモデル群「LFM3」を公開しました。スマートフォンやノートPCなどでも動作可能な小型モデルでありながら高い性能を備えており、いずれのモデルもオープンモデルとして公開されています。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-liquid-ai-lfm3/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Samsungから初のオープンイヤー型イヤホン「Galaxy Buds On」が登場、AIで1億1900万件超の耳データを分析してあらゆる形状の耳に対応できるようデザインされたイヤホン",
+   "summary": "現地時間の2026年10月28日、Samsungがクリアな音声と直感的なAI体験を実現するオープンイヤー型イヤホン「Galaxy Buds On」のアメリカでの発売が発表されました。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-samsung-galaxy-buds-on/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "コイントスで決めたAIの意見に専門家が86％の割合で同調してしまうことが判明",
+   "summary": "AIを使って仕事をする専門家は自分で判断しているつもりでもAIの意見に大きく影響されている可能性があるという研究結果をClaudeシリーズなどのAIを展開しているAnthropicが発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-anthropic-agents-judgment-calls/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード",
+   "summary": "Artificial AnalysisはAIモデルの性能評価を行っている独立機関で、複数のベンチマーク結果をもとにAIの総合性能を算出する「Artificial Analysis Intelligence Index」は新規モデルの性能を把",
+   "link": "https://gigazine.net/news/20261029-intelligence-index-v5/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "約19億円相当のAIチップがマレーシアの空港で押収される",
+   "summary": "マレーシア税関当局が、高度なAIチップを搭載したサーバーユニット30台を押収したと発表しました。貨物の輸送を仲介したマレーシア企業が取り調べを受けています。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-malaysia-airport-ai-chip/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を公開、大勢が同時に話す場面でも高精度な話者識別が可能",
+   "summary": "NVIDIAが文字起こしAI「Nemotron 3.5 Transcribe」を現地時間の2026年10月28日に公開しました。複数の話者を識別しながら高精度な文字起こしが可能です。続きを読む...",
+   "link": "https://gigazine.net/news/20261029-nvidia-nemotron-3-5-transcribe/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Metaがたまごっち風のAIペットを育てて会話するアプリ「Waddle World」をこっそりリリース",
+   "summary": "MetaがiOSとAndroidの両プラットフォーム向けに「Waddle World」というAIペットを育成するアプリをリリースしていることがわかりました。アプリ内でドット絵のペットを育てながら会話することができ、AIが会話内容を基に日記を",
+   "link": "https://gigazine.net/news/20261029-meta-waddle-world/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが世界一高性能なAI「Gemini 4 Carbon」を発表、ついにOpenAIやAnthropicの最先端モデルを超える",
+   "summary": "GoogleがAIモデル「Gemini 4 Carbon」を日本時間の2026年10月29日に発表しました。複数のテストでOpenAIやAnthropicのフラッグシップモデルを超える性能を示しているほか、第三者機関の性能評価でも総合性能で",
+   "link": "https://gigazine.net/news/20261029-gemini-4-carbon/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SAPとNTT、ソブリンクラウドとSAP Business AIの機能提供に向けて連携",
+   "summary": "SAPジャパン株式会社とNTT株式会社は10月28日、「SAP Sovereign Cloud」および「SAP Business AI」の機能提供に向けて連携すると発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152433.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始",
+   "summary": "KDDI株式会社は10月28日、企業システムやネットワーク機器、ソフトウエアに潜むセキュリティリスク診断を効率化する「AI脆弱性管理ソリューション」の提供を開始した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152201.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "981gの軽さにRyzen AIのパワー、さらにコスパも。マウスコンピューターの新モデル「mouse X2」は“ちょうどいい”を極めた優等生モバイルPCだった[Sponsored]",
+   "summary": "マウスコンピューターの一般向けノートPCシリーズの中で、特に携帯性を重視したモデルが「mouse X」シリーズ。そのmouse Xシリーズの最新モデルが「mouse X2-A7A01CB-A / コスモブルー（Copilot+ PC）」だ。",
+   "link": "https://internet.watch.impress.co.jp/docs/topic/special/2149773.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+   "summary": "AIの進化は、来るところまで来てしまったようだ。サイバー攻撃への応用である。24時間365日、AIは休まず働き続け、脆弱性を発見する。そこを突く攻撃ツールの生成にもAIが威力を発揮してしまっている。",
+   "link": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+   "source": "INTERNET Watch",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用（後編）【自宅Wi-Fiの“わからない”をスッキリ！】",
+   "summary": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
+   "link": "https://internet.watch.impress.co.jp/docs/column/homewifi/2151171.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "スマートグラス「Even G2」にべっ甲柄の新色+AI強化 CMは本田圭佑",
+   "summary": "Even Realitiesは、ディスプレイ付きスマートグラス「Even G2」の新色「Brown 2」の先行販売を開始した。AI機能を強化するソフトウェアアップデートも公開したほか、ブランドアンバサダーにサッカー選手の本田圭佑さんを起用。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152397.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ドコモSMTBネット銀行、法人向けAIエージェント　振込や資金繰り支援",
+   "summary": "ドコモSMTBネット銀行は、法人向けアプリで利用できるAIエージェント「NEOBANK ai BIZ」のベータテストを開始した。同社が案内する一部の法人顧客が対象で、法人アプリのホーム画面下部から応募できる。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152365.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Yahoo!ショッピング、AI商品比較が進化　条件別にランキング",
+   "summary": "LINEヤフーは、「Yahoo!ショッピング」で、AIが商品を比較して商品選びをサポートする「AIベスト提案」の提供を順次開始した。従来の「AIおまかせ比較」を刷新し、「価格の安さ」「配送の早さ」「評価の高さ」など、重視する条件に応じて商品",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152234.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "完全一新したアマゾン「Alexa+」日本上陸 自然な会話とタスク実行が当面無料",
+   "summary": "アマゾンは、次世代AIアシスタントサービス「Alexa+(アレクサプラス)」の早期アクセスプログラムを日本でスタートした。日本の文化や習慣を理解し、より自然な会話やタスクの実行などに対応したパーソナルアシスタントとなる。当面は無料で提供し、",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152023.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
