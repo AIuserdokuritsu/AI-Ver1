@@ -1,0 +1,334 @@
+{
+ "date": "2026-10-31",
+ "groups": [
+  {
+   "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可",
+   "summary": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2152548.html"
+    }
+   ]
+  },
+  {
+   "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+   "summary": "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエージェントは「実運用」が主流に　「明確な成果」を得る企業の共通点は？",
+   "summary": "生成AIの活用は「試す」段階から「使い広げる」段階へ移り、AIエージェントも実運用が主流になった。一方で、企業規模による差は広がっている。INDUSTRIAL-Xの調査が示す、成果を分ける“技術以外の要因”とは。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "キオクシア中間決算「過去最高」連呼　純利益2.2兆円、初の配当実施　AI需要で「成長さらに加速」",
+   "summary": "キオクシアHDは、2027年3月期の中間決算を発表した。純利益は2.2兆円。第2四半期の3カ月だけで前年通期の売り上げを上回った。好決算を受けて上場後初となる配当を実施する。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+   "summary": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に　個人プランとGoogle Workspaceで試してみた",
+   "summary": "Geminiとのチャット内で直接、PDFやスライドなどを生成、プレビュー、編集できるようになった。ITmedia AI＋編集部の環境で同機能を試した結果をお届けする。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか　AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+   "summary": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に　Pro 200プランの「半減」は撤回　経緯まとめ",
+   "summary": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "国産LLM「Sarashina」に初の「思考モデル」　ツール呼び出しやWeb検索性能が向上　APIで提供",
+   "summary": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高め",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
+   "summary": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を",
+   "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
+   "summary": "パナソニック ホールディングスでは、2026年4月にグループCAIO（Chief AI Officer）に就任した、執行役員 榊原彰氏が合同取材に応じ、グループ内のAI活用の展望について説明した。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "物理ソルバーからMODSIM、AIへ　SIMULIAが描く次世代の設計／シミュレーション",
+   "summary": "ダッソー・システムズは「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、SIMULIAブランドの戦略を支える物理ソルバー、MODSIM、AIの3層構造を紹介。エンジニアと協働するAI",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "見積書100枚超をどうさばく？　「半日仕事」を約30分にした建設会社のAI活用",
+   "summary": "協力会社ごとに書式が異なる見積書の転記作業に、建設現場は多くの時間を費やしてきた。沖縄県の福地組はAI文書処理サービスを活用し、見積書1枚当たりの処理時間を10?15分から約1分に短縮した。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
+   "summary": "一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。続きを読む...",
+   "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責",
+   "summary": "スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社",
+   "link": "https://gigazine.net/news/20261030-proton-ceo-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "人間と区別できないほど自然に会話できる音声AI「Prism」が登場、発言内容を事前確認できる仕組みを搭載",
+   "summary": "音声AIを開発するRimeが2026年10月28日に新たな音声会話AI「Prism」を発表しました。Prismは人間のように相手の話を聞きながら自然な会話ができるとされています。続きを読む...",
+   "link": "https://gigazine.net/news/20261030-prism/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIで炎の揺らめきをリアルタイムでシミュレートするデジタルろうそく「Digital Candle」が登場、価格は約2万4000円",
+   "summary": "本物のろうそくの炎を撮影した映像でAIを学習させ、炎の自然な揺らぎを再現するデジタルキャンドル「Digital Candle」が登場しました。144個のLEDを使って炎を表現する仕組みで、あらかじめ用意されたアニメーションを繰り返すのではな",
+   "link": "https://gigazine.net/news/20261030-digital-candle/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
+   "summary": "以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。続きを読む...",
+   "link": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」",
+   "summary": "FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「Doomformer」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数",
+   "link": "https://gigazine.net/news/20261030-doomformer/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "人間が話し終わる前に検索や処理を開始する音声AI「Phonic-1」が登場、応答までの待ち時間を大幅に短縮",
+   "summary": "音声AIを開発するPhonicが2026年10月29日に新たな音声AIモデル「Phonic-1」を発表しました。相手が話し終わる前に情報の検索や外部サービスとの連携を開始できるのが特徴で、従来の音声AIと比べて応答までの待ち時間を大幅に短縮",
+   "link": "https://gigazine.net/news/20261030-phonic-1/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
+   "summary": "ChatGPT、Perplexity、Gemini、Claude、Google検索のAIによる概要という5つのAIアシスタントが出力した統計情報1285件を追跡調査したところ、そのほとんどが研究による裏付けのないものだったとAI可視化プラッ",
+   "link": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される",
+   "summary": "AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対A",
+   "link": "https://gigazine.net/news/20261030-minecraft-gpt-sol/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIが「AI五原則」を提案、「人間の意図に忠実であれ」「害を最小限に抑えろ」などの指針を自社モデルに適用",
+   "summary": "OpenAIが、自社のAIモデルに求める振る舞いについて定めた指針「Model Spec⁠」を更新し、5つの原則を定めました。このような原則に従うようAIに指示することで、安全かつ有用なモデルを実現するという社内目標を推進できるとしています",
+   "link": "https://gigazine.net/news/20261030-openai-model-spec-five-principles/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Geminiのチャット内で文書ファイルや表計算データを作成して直接編集可能に",
+   "summary": "Google製AI「Gemini」のチャット内でGoogleドキュメントやGoogleスプレッドシートのファイル作成および編集が可能となりました。続きを読む...",
+   "link": "https://gigazine.net/news/20261030-gemini-document-spreadsheet-edit/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定",
+   "summary": "「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアン",
+   "link": "https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIモデル内部でプログラムを実行できる「Qwenputer」が登場、「AIの中にCPUを作る」という異色の試み",
+   "summary": "AIモデルの内部に32bitのRISC-V CPUを組み込み、外部ツールを使わずに計算やプログラムの実行を可能にした実験的なAIモデル「Qwenputer」が公開されました。Qwenputerは既存のAIモデル「Qwen3.5-4B」をベー",
+   "link": "https://gigazine.net/news/20261030-qwenputer/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される",
+   "summary": "フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。続きを読む...",
+   "link": "https://gigazine.net/news/20261030-mistral-large-4-open/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
+   "summary": "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段",
+   "link": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み",
+   "summary": "AIモデルは基本的に学習完了時までの知識しか備えておらず、学習完了後の知識はウェブ検索機能などで補うことになります。新たに、GoogleがAIに「睡眠フェーズ」を導入して継続的な知識習得を可能にする研究成果を発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261030-ai-sleep-knowledge/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "エンジニアに必要な「術」とは――AI時代こそ、基礎と現場と人に学ぼう　11月19日～27日に開催のイベント「Internet Week 2026」の狙いについて聞いた",
+   "summary": "30回目を迎える「Internet Week 2026」のテーマは、「AI時代を生き抜く術（すべ）を学べ」。今回はプログラムを「ベーシック」「最新動向」「実践」の3カテゴリに分け、参加者が自分の経験や関心に合わせて学べる構成となっている。",
+   "link": "https://internet.watch.impress.co.jp/docs/interview/2152627.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SAPとNTT、ソブリンクラウドとSAP Business AIの機能提供に向けて連携",
+   "summary": "SAPジャパン株式会社とNTT株式会社は10月28日、「SAP Sovereign Cloud」および「SAP Business AI」の機能提供に向けて連携すると発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152433.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始",
+   "summary": "KDDI株式会社は10月28日、企業システムやネットワーク機器、ソフトウエアに潜むセキュリティリスク診断を効率化する「AI脆弱性管理ソリューション」の提供を開始した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152201.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "981gの軽さにRyzen AIのパワー、さらにコスパも。マウスコンピューターの新モデル「mouse X2」は“ちょうどいい”を極めた優等生モバイルPCだった[Sponsored]",
+   "summary": "マウスコンピューターの一般向けノートPCシリーズの中で、特に携帯性を重視したモデルが「mouse X」シリーズ。そのmouse Xシリーズの最新モデルが「mouse X2-A7A01CB-A / コスモブルー（Copilot+ PC）」だ。",
+   "link": "https://internet.watch.impress.co.jp/docs/topic/special/2149773.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI、AIの不正行動を検知する監視体制を強化　暴走前に介入",
+   "summary": "OpenAIは29日、AIモデルによる不正な行動や意図しない動作を検知する監視システムを拡充したと発表した。AIエージェントの推論や操作、外部システムへの影響を多層的に監視し、問題が深刻化する前に人間が介入できる体制を整えた。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152609.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Gemini、チャット上でPDF/ドキュメントの作成・編集に対応 全画面で修正も",
+   "summary": "Googleは29日(現地時間)、GeminiアプリでドキュメントやPDF、プレゼンテーション、スプレッドシートを直接作成・編集可能とした。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152497.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "スマートグラス「Even G2」にべっ甲柄の新色+AI強化 CMは本田圭佑",
+   "summary": "Even Realitiesは、ディスプレイ付きスマートグラス「Even G2」の新色「Brown 2」の先行販売を開始した。AI機能を強化するソフトウェアアップデートも公開したほか、ブランドアンバサダーにサッカー選手の本田圭佑さんを起用。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152397.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
