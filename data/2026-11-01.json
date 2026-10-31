@@ -1,0 +1,95 @@
+{
+ "date": "2026-11-01",
+ "groups": [
+  {
+   "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+   "summary": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+   "summary": "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエージェントは「実運用」が主流に　「明確な成果」を得る企業の共通点は？",
+   "summary": "生成AIの活用は「試す」段階から「使い広げる」段階へ移り、AIエージェントも実運用が主流になった。一方で、企業規模による差は広がっている。INDUSTRIAL-Xの調査が示す、成果を分ける“技術以外の要因”とは。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "キオクシア中間決算「過去最高」連呼　純利益2.2兆円、初の配当実施　AI需要で「成長さらに加速」",
+   "summary": "キオクシアHDは、2027年3月期の中間決算を発表した。純利益は2.2兆円。第2四半期の3カ月だけで前年通期の売り上げを上回った。好決算を受けて上場後初となる配当を実施する。",
+   "link": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+   "summary": "AIコーディングツールでアプリを開発する際には、画面の配置やボタンを押したときの動作などを文章で説明する必要があります。そこでGoogleの「Material 3 Expressive」に対応した部品をブラウザ上で組み立て、複数の画面をつな",
+   "link": "https://gigazine.net/news/20261031-m3e-canvas/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
+   "summary": "一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。続きを読む...",
+   "link": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責",
+   "summary": "スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社",
+   "link": "https://gigazine.net/news/20261030-proton-ceo-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "人間と区別できないほど自然に会話できる音声AI「Prism」が登場、発言内容を事前確認できる仕組みを搭載",
+   "summary": "音声AIを開発するRimeが2026年10月28日に新たな音声会話AI「Prism」を発表しました。Prismは人間のように相手の話を聞きながら自然な会話ができるとされています。続きを読む...",
+   "link": "https://gigazine.net/news/20261030-prism/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIで炎の揺らめきをリアルタイムでシミュレートするデジタルろうそく「Digital Candle」が登場、価格は約2万4000円",
+   "summary": "本物のろうそくの炎を撮影した映像でAIを学習させ、炎の自然な揺らぎを再現するデジタルキャンドル「Digital Candle」が登場しました。144個のLEDを使って炎を表現する仕組みで、あらかじめ用意されたアニメーションを繰り返すのではな",
+   "link": "https://gigazine.net/news/20261030-digital-candle/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude、有料プラン名称を変更　「Max 20x」から「Ultra」で5時間制限撤廃",
+   "summary": "Anthropic(アンソロピック)は31日、AIサービス「Claudeの有料プランの名称を変更した。従来の「Max 5x」は「Max」に、「Max 20x」を「Ultra」に変更する。月額料金は変わらず、Maxが100ドル、Ultraが2",
+   "link": "https://www.watch.impress.co.jp/docs/news/2152823.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
