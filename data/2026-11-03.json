@@ -1,0 +1,208 @@
+{
+ "date": "2026-11-03",
+ "groups": [
+  {
+   "title": "ChatGPTの「Chat」と「Work」統合へ　利用制限はCodexと共通化",
+   "summary": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2153076.html"
+    }
+   ]
+  },
+  {
+   "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+   "summary": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導",
+   "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
+   "summary": "サイバー攻撃への緊急対応、膨らむAIコスト、部材の高騰といった不安要素が重なる中、ITサービス需要はどうなるのか。富士通とNECの受注状況と決算会見での発言から今後の需要動向を探る。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+   "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5",
+   "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「保安検査の長い列」と「人手不足」をどう解消する？　フランクフルト空港におけるAI時代の空港DX",
+   "summary": "4月に開業したフランクフルト空港の第3ターミナル。IT技術やAIを導入し、顧客体験の向上や業務効率化を行っている。どのような技術を導入し、「止まらない空港」を実現しようとしているのか？",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/02/news003.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "キオクシア「設備投資を急がねば……」　2027年分は完売、メモリ供給追い付くか",
+   "summary": "半導体メモリ大手のキオクシアは、2027年の生産能力が全て“完売”だと明かした。AIブームによる旺盛なメモリ需要に答えるため、年5000億円弱を投じて新工場を建設する。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/02/news031.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "その日、メルカリは「業務を止めた」――上司と部下が対立も、AI利用率100％をかなえたCAIOの奮闘記",
+   "summary": "AIツールの利用率100％を達成したメルカリ。しかし「AIエージェント構築に時間を割きたい部下と、それを止めたい上司」など一筋縄ではいかなかった。試行錯誤の裏側をCAIOが語る。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/02/news032.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "オラクルの機能がChatGPTで利用可能に　複数システムをまたぐ業務をAIで自動化",
+   "summary": "オラクルがOpenAIとの協業を拡大し、ChatGPTやCodex、AI技術を活用し、業務の効率化・実行からソフトウェアの脆弱性の検出、アプリケーション開発まで幅広く支援する。小規模企業には年間1万2000ドル分のクラウド利用枠を含むプラン",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/02/2000002740/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり",
+   "summary": "日本語を扱うAIモデルを一から開発する際には学習用の文章を集めるだけでなく、文章を細かく分割するトークナイザの作成や追加学習・性能の評価などの工程が必要です。こうした作業を個別に組み合わせる手間を減らし、日本語の学習データや評価用のプログラ",
+   "link": "https://gigazine.net/news/20261102-nanochat-jp/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される",
+   "summary": "AI搭載コードエディター「Cursor」の公式拡張機能マーケットプレイスで配布されていた「Claude Code」の一部バージョンにPCへの不正アクセスを可能にするSSHバックドアが仕込まれていた問題について、セキュリティ企業のPhorio",
+   "link": "https://gigazine.net/news/20261102-official-claude-code-extension-compromise/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "音声ファイルから雑音を除去してクリアな音声にできるAI「NemotronLabs-RE-USE」をNVIDIAが公開",
+   "summary": "音声ファイルからノイズを除去できるAIモデル「NemotronLabs-RE-USE」をNVIDIAが公開しました。コンテンツ制作用の音声素材の補正や、音声AIモデル用の学習データ作成に役立つとされています。続きを読む...",
+   "link": "https://gigazine.net/news/20261102-nvidia-nemotronlabs-re-use/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日本語特化で高速かつ高精度な文字起こしAI「Haas-ja-v1.0」が登場、オープンモデルの中で最高性能を記録",
+   "summary": "日本のAI企業であるThird Intelligenceが日本語特化の音声認識モデル「Haas-ja-v1.0」を公開しました。パラメーター数6億1580万の軽量モデルで、精度の高さと処理の速さを両立していることがアピールされています。続き",
+   "link": "https://gigazine.net/news/20261102-haas-ja-v1-asr/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "盗んだ個人情報をAIに分析させて被害者の「金銭的価値」を格付けするマルウェアが発見される",
+   "summary": "セキュリティ企業Ciscoの脅威分析部門であるCisco Talosが、パスワードやクレジットカード情報などを盗み出した後にAIを使って被害者の金銭的な価値を評価するマルウェア「VOLTA-AUTODOXER」を発見したと報告しました。VO",
+   "link": "https://gigazine.net/news/20261102-ai-model-driven-victim-prioritization/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定",
+   "summary": "「ウェブサイトのコンテンツをAI学習に使用することの可否」をrobot.txtを用いて明示できるようにする仕様の作成が進んでいます。この仕様について、Google・OpenAI・Microsoftが対応を表明しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261102-ai-training-control/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleのAI「Gemma 4」搭載衛星から「宇宙にいるAIからの世界初の応答」として俳句が送信される",
+   "summary": "Googleは2026年10月30日、宇宙空間でAIによる計算処理を行う研究プロジェクト「Project Suncatcher」において、人工衛星に搭載したAI向けプロセッサ「TPU」を使い、AIモデルからの応答を受信することに成功したと発",
+   "link": "https://gigazine.net/news/20261102-google-project-suncatcher-haiku/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する",
+   "summary": "Anthropicが2026年11月3日から、古いAIモデルでもテキスト透かしを追加すると発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261102-anthropic-expands-text-watermarking-older-claude-november-3/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "海外掲示板「Reddit」、ログイン制への移行を発表。適切な広告配信とAIボット排除のため【やじうまWatch】",
+   "summary": "海外掲示板「Reddit」が、ログインを前提としたサービスへ移行する方針を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2153000.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「既知の脆弱性を対策すれば、AIが大きな脅威とは言いがたい」「個人情報漏えいの被害は何年も続く」、森井名誉教授が語るサイバー攻撃の現状　GMOへの攻撃は「直接顧客の個人情報を人質に取るランサムウェアの新形態」",
+   "summary": "神戸大学名誉教授であり、神戸市サイバー攻撃対策アドバイザーなどを務める森井昌克氏は、「昨今の相次ぐサイバー攻撃による情報漏えいは、AIが次々と脆弱性を発見したり、AIによる攻撃が増えたりしていることだけが原因ではない」とし、「AIは脅威では",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152904.html",
+   "source": "INTERNET Watch",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "IPA、2027年度に開始する「プロフェッショナルデジタルスキル試験（仮称）」の「データ・AI領域」サンプル問題を公開",
+   "summary": "独立行政法人情報処理推進機構（IPA）は10月30日、2027年度から開始を予定する「プロフェッショナルデジタルスキル試験（仮称）」における「データ・AI領域」のサンプル問題を公開した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2152759.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "イオン、フィジカルAI導入した次世代自動化倉庫「イオン川口東XD」",
+   "summary": "イオン、イオングローバルSCM、Mujinは10月29日、フィジカルAIを導入した自動化倉庫「イオン川口東XD」の本稼働を開始した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153080.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google、衛星軌道上のAIから俳句の受信に初成功",
+   "summary": "Googleは10月30日(米国時間)、宇宙空間にAI向けの計算基盤を構築する研究プロジェクト「Project Suncatcher(プロジェクト・サンキャッチャー)」において、軌道上のTPUから初めての応答が得られたと報告した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153004.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "\"推せるAI”の魅力 便利だけじゃない「Meta Muse」の楽しさについて語ろう",
+   "summary": "Impress Watchシリーズの会員限定記事です。記事を全文読むには会員登録をお願いします(無料)。登録はこちらから。",
+   "link": "https://www.watch.impress.co.jp/docs/watchplus/2152749.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
