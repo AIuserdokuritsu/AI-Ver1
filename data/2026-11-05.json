@@ -1,0 +1,275 @@
+{
+ "date": "2026-11-05",
+ "groups": [
+  {
+   "title": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+   "summary": "“トイレの会社”として知られるTOTOが、半導体ビジネスで化けている。半導体製造装置に使う材料が、営業利益の7割をかせぐまでに成長している。急成長の裏側を社長が語った。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
+   "summary": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
+   "summary": "中国が輸出の蛇口を少し締めるだけで、日本の田畑からみずみずしい作物が消え失せかねない──。化学肥料原料のほぼ全量を海外に握られた日本の農業。この食料安全保障の急所に立ち向かうのは、売上高500億円を誇る「100年続く資材問屋」だ。湯気立つ牛",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由",
+   "summary": "AIが生成するプルリクエストの増加を受け、あるOSS開発者が「今後公開するコードではPRの受付をやめ、改変は自由にする」と宣言した。変更を上流に送るのではなく、各自が自分用にカスタマイズする「リミックスモデル」の中身と、その賛否を整理する。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "国産AI開発のNoetra、テックブログ開設　「開発現場での試行錯誤や工夫」も発信",
+   "summary": "国内大手が出資するAI企業Noetraは、テックブログを開設した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002886/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "製造業の「秘伝のタレ」はAIに奪われるのか、競争力の源泉はどこにある？",
+   "summary": "ヤマザキマザックは「JIMTOF2026」において、ブース内セミナーを開催。本稿では、その中で政策研究大学院大学 特任教授の西垣淳子氏と、ヤマザキマザック 上席執行役員 商品開発本部 副本部長の澤田洋祐氏が行った「製造業の『秘伝のタレ』はど",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news064.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+   "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
+   "summary": "Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claudeプラン名変更で容量半減？→公式が否定　「元々、Max 20xの週次制限はProの10倍」",
+   "summary": "AnthropicはClaudeのプラン名「Max 5x」を「Max」に、「Max 20x」を「Ultra」に変更した。Ultraプランの使用制限が「20倍から10倍に減ったのでは」という声が寄せられている。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002862/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+   "summary": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "3D CADデータ×AIで造船設計を支援、設計情報の確認作業を効率化へ",
+   "summary": "Noahlogyは、AVEVAとパートナー契約を締結した。AVEVAの3Dモデルデータを対象に、AIを活用して設計者の確認作業を支援する技術の開発／検証を進め、造船設計業務での実用化を目指す。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news020.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+   "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+   "summary": "生成AIを使えば資料作成を効率化できるが、手直しや体裁の統一には手間がかかることもある。こうした課題に対応するため、GoogleはGeminiの2つの新機能を発表した。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
+   "summary": "東北大学とアイシンは、不揮発性メモリであるSTT-MRAMを搭載するAIチップを開発したと発表した。「近メモリコンピューティング（NMC）」型のAIチップであり、従来比で電源投入からOS起動までの時間を約39倍高速化するとともに、物体検出な",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略",
+   "summary": "顧客支援の質とスピードを底上げすべく生成AIの全社導入に踏み切ったテレシーだが、AIリテラシー格差による提供価値のバラつきや情報漏えいに対する懸念に直面した。同社はこの課題を突破するために、AI人材の育成と情報基盤の整備の両輪が必要だと考え",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002712/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」",
+   "summary": "Wikipediaで調べ物をしたり地図を確認したりする際はインターネット接続が基本ですが、通信回線が使えない場所や災害時には必要な情報を確認するのが難しくなります。そんな状況に備えてWikipedia・教科書・電子書籍・医療資料・オフライン",
+   "link": "https://gigazine.net/news/20261104-project-nomad/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "富士フイルムが「磁気テープ」の製造能力を5倍に増強すると発表、AIブームによるデータアーカイブ需要増加に対応",
+   "summary": "富士フイルムが約100億円を投資して「データストレージ用磁気テープ」の製造能力を5倍に増強することを2026年10月29日に発表しました。生成AIの普及に伴ってデータアーカイブ需要が高まっており、これに対応するため磁気テープの安定供給体制を",
+   "link": "https://gigazine.net/news/20261104-fujifilm-boost-tape-production-ai-fuels/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "コーディングだけでなく日々の判断にもAIが役立つか測定可能なベンチマークテスト「LifeVal」をOpenAIが発表",
+   "summary": "AIの性能を測定するベンチマークは数多くの種類が存在していますが、ほとんどはコーディングや数学などの専門分野における性能の測定を目的としており、普段の生活で発生するタスクの性能測定は主流ではないのが現状です。そんな中、OpenAIが日常的な",
+   "link": "https://gigazine.net/news/20261104-openai-lifeval/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "銀行系企業がAIの利用コストを約10分の1に削減した事例を公開、商用AIから自社運用モデルへの切り替えで",
+   "summary": "Revolut(レボリュート)は銀行サービスや送金、決済などを提供するイギリスの金融テクノロジー企業です。同社のAI運用・インフラ部門を率いるデビッド・アビトボル氏が、2026年10月に開催された開発者向けイベント「AI Engineer ",
+   "link": "https://gigazine.net/news/20261104-revolut-cut-ai-cost/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+   "summary": "OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261104-ram-altman/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "現代のチェスAIを動かす30年前のPCと昔のチェスAIを動かす現代PCが対決、100局の勝敗は？",
+   "summary": "30年前のチェスAIを現代の高性能PCで動かす場合と、現代のチェスAIを30年前のPCで動かす場合ではどちらが強いのかについて、AIセキュリティ研究者であるニコラス・カーリーニ氏が実際に古いPCを用意してチェスAIを動作させ、100局の対戦",
+   "link": "https://gigazine.net/news/20261104-modern-chess-engine-vs-pc/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIがGitで超大規模リポジトリを運用するためのバックエンド「Pando」を開発",
+   "summary": "OpenAIがバージョン管理システム「Git」を大規模モノレポに対応させるための社内バックエンド「Pando」を開発したことを発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261104-openai-git-pando/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も",
+   "summary": "マサチューセッツ工科大学(MIT)の研究チームが、AIモデル「GPT-6 Astra」を使って別のAIモデル「Qwen3.5-0.8B」の内部パラメーターを書き換え、数学問題の正答率を7.9％から48.1％に改善したと報告しました。追加学習",
+   "link": "https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Google Chrome 157」安定版リリース、Android版でオンデバイスの言語判定が可能に",
+   "summary": "ウェブブラウザ「Google Chrome」の最新安定版であるバージョン157がリリースされました。Android版Chromeでブラウザ内蔵の機械学習モデルによる言語判定が可能になったほか、CSSで要素の角の形状をまとめて指定したり、省略",
+   "link": "https://gigazine.net/news/20261104-google-chrome-157/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが学校向けに検索機能をオフにするオプションを実装、代わりに学習者向けAIを搭載した検索機能を提供",
+   "summary": "Googleが学校向けに、AIのGeminiやGoogle検索を個別に無効化する機能を提供しました。また学習者向けに「答えを教えるのではなく学習方法を教える」という新しいAI搭載Google検索機能も実装しています。続きを読む...",
+   "link": "https://gigazine.net/news/20261104-google-guided-learning-search/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発",
+   "summary": "AIの性能は日々向上しており、ユーザーが使えるAIモデルの種類は急増しています。しかし、ユーザー側から「宣伝されている通りのAIモデルが使われているのか」を確かめる方法は限られており、サービス側が低性能AIモデルをこっそり使っている可能性を",
+   "link": "https://gigazine.net/news/20261104-anthropic-flashprove/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日本語に対応したiPhoneの「Siri AI」で名刺を文字起こし！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】",
+   "summary": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
+   "link": "https://internet.watch.impress.co.jp/docs/column/homewifi/2153078.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "インフラ障害対応をコンテストの問題で学ぶ――AI時代こそ「自分で考え、確かめる力」を　「Internet Week 2026」でハンズオンプログラム",
+   "summary": "「何かがおかしい。でも、どこから調べればいいのか分からない」。ネットワークやサーバーの運用に関わり始めた人なら、そんな戸惑いを感じたことがあるのではないだろうか。知識を実際の障害対応につなげるには、手を動かしながら考える経験が欠かせない。",
+   "link": "https://internet.watch.impress.co.jp/docs/interview/2153295.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIとマツダ、AIを活用した車両設計で共同研究",
+   "summary": "OpenAIは、AIを活用した車両設計でマツダと共同研究を始めたと発表した。マツダの空力・衝突安全の技術者と連携し、車両周辺の空気の流れや車体構造の挙動をシミュレーションする。デザインやコストも考慮しながら、車両の性能を高める設計を探る。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153509.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、学校向けAIを原則オフに　管理者による許可制へ",
+   "summary": "Googleは3日(米国時間)、学校向けAI製品の管理方法を変更し、小中高生のアカウントでは、学校管理者が明示的に有効化するまで利用できない仕組みを導入すると発表した。あわせて、Google 検索とGoogle Classroomに、生徒の",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153472.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
