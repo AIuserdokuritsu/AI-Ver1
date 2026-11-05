@@ -1,0 +1,298 @@
+{
+ "date": "2026-11-06",
+ "groups": [
+  {
+   "title": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
+   "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類",
+   "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2153811.html"
+    }
+   ]
+  },
+  {
+   "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+   "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+   "summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SaaSの「ツギハギ管理」に悩んだクラシル、管理費24％を削減したAI時代のツール集約",
+   "summary": "SaaSの増加に伴い、台帳の突合や手動管理に追われる情シスは多い。クラシルはSaaS管理台帳を「zooba」へ集約し、ツール費用を24％削減した。しかし同社の真の目的はコスト削減ではなかった。クラシルの情シスが考える、AI時代のIT資産管理",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002909/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
+   "summary": "AIに実装を任せ、コードもテストも自動で進む「エージェント型開発」。効率化への期待が高まる一方、経験豊富な開発者ほど導入に慎重だ。コードが動けばそれでいい、とはいかないらしい。彼らが警戒するのは、動作確認だけでは分からない、その先のリスクだ",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「48ドルの返金が4800ドルに」　AIエージェントの暴走を止める、本番運用の勘所",
+   "summary": "Linux Foundation傘下のAgentic AI Foundation（AAIF）が「AGNTCon + MCPCon Japan 2026」を東京・渋谷で開催した。同イベントとしては日本初開催となる。MCPの共同開発者らの講演か",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GPT-6モデルはAstra、Sol、それともLuna？　OpenAIが教える、Codex爆速開発の鉄則",
+   "summary": "AIエージェントの導入を検討する企業とって大きな懸念となるのがトークン消費に伴うAPI利用コストだろう。高性能な最上位モデルを全工程で走らせれば予算を圧迫し、安価なモデルを一律で選定すれば修正ループが増えて手戻りが発生する。限られた予算枠の",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
+   "summary": "Preferred Networksは、翻訳特化型LLM「PLaMo 3 Translate」をオープンウェイトで公開した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "フジテレビ、全ドラマでAI活用できる体制へ　2027年10月めど　「救命病棟２４時」で先行導入",
+   "summary": "フジテレビジョンは、2027年10月をめどに、同社が制作する全ドラマでAIを活用できる体制を整えると発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
+   "summary": "",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
+   "summary": "リコーと川崎重工業は、AIを活用した設計業務の知識資産活用に向け、戦略的パートナーシップを構築した。設計文書や図面に蓄積された知識に加え、熟練技術者の経験やノウハウなどの暗黙知をAIで整理／可視化し、技術継承と設計業務の生産性向上を目指す。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+   "summary": "“トイレの会社”として知られるTOTOが、半導体ビジネスで化けている。半導体製造装置に使う材料が、営業利益の7割をかせぐまでに成長している。急成長の裏側を社長が語った。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "深刻な「中国依存」を脱せるか　老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
+   "summary": "中国が輸出の蛇口を少し締めるだけで、日本の田畑からみずみずしい作物が消え失せかねない──。化学肥料原料のほぼ全量を海外に握られた日本の農業。この食料安全保障の急所に立ち向かうのは、売上高500億円を誇る「100年続く資材問屋」だ。湯気立つ牛",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由",
+   "summary": "AIが生成するプルリクエストの増加を受け、あるOSS開発者が「今後公開するコードではPRの受付をやめ、改変は自由にする」と宣言した。変更を上流に送るのではなく、各自が自分用にカスタマイズする「リミックスモデル」の中身と、その賛否を整理する。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+   "summary": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたた",
+   "link": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
+   "summary": "アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投",
+   "link": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに無理やり書道をやらせる「AI書道コンクール」が登場、画像生成AIではなく言語モデルに挑戦させる",
+   "summary": "さまざまなAIモデルに書道に挑戦させ、作品を並べて鑑賞するというサイトが「AI書道コンクール」です。続きを読む...",
+   "link": "https://gigazine.net/news/20261105-ai-shodo/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能",
+   "summary": "従来より約50％高速に画像を生成するというAIツール「Images 2.6」をOpenAIが発表しました。ChatGPTとCodex APIで利用できます。続きを読む...",
+   "link": "https://gigazine.net/news/20261105-openai-image-2-6/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Kimi K3.1 Pro」の重みが無料で公開される",
+   "summary": "Moonshot AIが2026年10月24日に公開したAIモデル「Kimi K3.1 Pro」の「重み」が、当初の予告通り無料で公開されました。誰でもダウンロードして利用できます。続きを読む...",
+   "link": "https://gigazine.net/news/20261105-kimi-k3-1-pro-model-weight-release/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた",
+   "summary": "AI開発企業のPreferred Networks(PFN)が2026年11月5日、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」のモデルウェイトを公開しました。8億から310億パラメータまで4種類のモデルが用意されて",
+   "link": "https://gigazine.net/news/20261105-plamo-3-translate-open-weight/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "中国・Tencentが高性能AIモデル「Hy4」を発表、オープンモデルとして公開することを約束",
+   "summary": "中国のIT大手Tencentは2026年11月4日、新たなAIモデル「Tencent Hy4」を発表しました。画像の理解やPCの操作に対応し、プログラミングや金融分析、ゲーム開発、科学研究など幅広い分野で高い性能を発揮するとしています。Te",
+   "link": "https://gigazine.net/news/20261105-tencent-hy4/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Appleはコスト削減のため従業員のAI利用額を制限し始めている",
+   "summary": "Appleが従業員の1日当たりのAI利用額の上限を引き下げたことが報じられています。報道によると、一部のエンジニアは1日当たりのAI利用額の上限が300ドル(約4万7000円)から200ドル(約3万2000円)に引き下げられたそうです。続き",
+   "link": "https://gigazine.net/news/20261105-apple-cuts-internal-ai-usage/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」",
+   "summary": "Wikipediaで調べ物をしたり地図を確認したりする際はインターネット接続が基本ですが、通信回線が使えない場所や災害時には必要な情報を確認するのが難しくなります。そんな状況に備えてWikipedia・教科書・電子書籍・医療資料・オフライン",
+   "link": "https://gigazine.net/news/20261104-project-nomad/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Akamai、AI推論サービス「Akamai Inference」とAIエージェント実行環境「Akamai Agent Sandbox」の提供を開始",
+   "summary": "Akamaiは10月27日（米マサチューセッツ州現地時間）、同社のクラウドインフラサービス「Akamai Cloud」において、AI基盤となる「Akamai Inference」と「Akamai Agent Sandbox」を発表した。マネ",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2153917.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "“スマートホーム＝リモコンがたくさんある家”から脱却へ!? 「IPv6で拡がるAIホーム」の世界とは　共通規格「Matter」の動向・技術について「Internet Week 2026」で講演",
+   "summary": "照明やエアコン、鍵など、お家のあれこれをスマートフォンで操作できるのは便利だけれど、メーカーごとにアプリが増えて、使い分けが面倒。「自宅をもっと快適なスマートホームにしたい」と思いながら、何を選び、どう組み合わせればよいのか迷っている方もい",
+   "link": "https://internet.watch.impress.co.jp/docs/interview/2154127.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【鈴木淳也のPay Attention】なぜパスポートはダメ? 大情報漏洩時代の本人確認がマイナカードに集約される理由",
+   "summary": "近年企業や個人へのサイバー攻撃が激化しているのは既知の通りだが、要因は2つ考えられる。1つはAIの登場により攻撃のためのツール作成が容易になり、また言語の壁を破ることもたやすくなったため、これまでこの壁の存在によって、海外の犯罪グループによ",
+   "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2153056.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "PFN、スマホでオフライン翻訳「PLaMo 3 Translate」",
+   "summary": "Preferred Networks(PFN)は5日、翻訳に特化したAIモデル「PLaMo 3 Translate」を公開した。利用者がダウンロードし、スマートフォンやパソコン、社内サーバーなどで動かせる「オープンウェイト」で提供。クラウド",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154028.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "フジテレビ、ドラマ制作に生成AIを積極導入　27年には全ドラマ対応へ",
+   "summary": "フジテレビジョンは5日、江東区青海の湾岸スタジオにAI活用の実験場「AI Sandbox」を設置し、実写ドラマ番組制作における生成AIの活用を進めていると発表した。制作手法の1つとして生成AIを取り入れ、従来の撮影条件では難しかった表現に取",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154002.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GensparkとKDDI Biz Edgeが協業　社内知識をAIが整理する「TeamBrain」",
+   "summary": "Gensparkは、企業内に分散する資料やメール、議事録などをAIが自動で整理し、AIエージェントが共通して参照できるナレッジ基盤「TeamBrain(チームブレイン)」の提供を開始した。対象はエンタープライズプランの利用企業。あわせてKD",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153945.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アスクル、ChatGPTから商品を探せる新機能　「現場のあいまい依頼」に対応",
+   "summary": "アスクルは5日、事業者向け通販サービス「ASKUL」がChatGPTのプラグインに対応し、ChatGPTとの会話で商品の検索と選定を可能とした。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153916.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "サイバーセキュリティは「AI vs AI」の局面に　求められる「マシンスピード防御」",
+   "summary": "Impress Watchシリーズの会員限定記事です。記事を全文読むには会員登録をお願いします(無料)。登録はこちらから。",
+   "link": "https://www.watch.impress.co.jp/docs/watchplus/2153087.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIアプリ開発のReplit、日本に拠点開設　SMFLがライセンス提供や研修",
+   "summary": "米Replit(レプリット)は、日本に拠点を開設し、企業向けAI開発サービスの展開を強化する。同社は9月に欧州市場向けのロンドン拠点を開設しており、日本を足掛かりにアジア市場での事業拡大を目指す。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2153684.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
