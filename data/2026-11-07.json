@@ -1,0 +1,356 @@
+{
+ "date": "2026-11-07",
+ "groups": [
+  {
+   "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+   "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 3,
+   "others": [
+    {
+     "source": "GIGAZINE",
+     "link": "https://gigazine.net/news/20261106-openai-gpt-6-cyber/"
+    },
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2154307.html"
+    }
+   ]
+  },
+  {
+   "title": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+   "summary": "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+   "summary": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
+   "summary": "AIで提案書の作成や情報収集は効率化できても、それだけで営業成績は上がるのか。AIを導入した営業現場で今、問われているのは、ツールを使いこなす力だけではない。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
+   "summary": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフ",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+   "summary": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human C",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
+   "summary": "宅配ピザチェーン「ピザーラ」を運営するフォーシーズが、TVアニメ「Dr.STONE」のコラボCMについて謝罪した。「TikTok」上でAIを活用した広告の自動生成機能が有効になっていた結果、同アニメ製作委員会の事前監修・許諾を得ていない動画",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
+   "summary": "Metaは、AIエージェント「Muse」にリアルタイム音声対話とアバター機能を追加すると発表した。米国で先行提供する。音声で作業を依頼できるほか、新技術により会話に合わせて表情や身ぶりが変わるアバターとの対面対話を可能にした。声は数百種類か",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "根拠の大半は「黒塗り」　AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
+   "summary": "米国の非営利研究機関METRは、Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+   "summary": "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した。過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える。試用段階では",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+   "summary": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
+   "summary": "「給与維持の週休3日制」をAI効率化で実現した国内のAIスタートアップ。喜ばれると思ったものの、実際には社員は不安げだったという。いったいなぜ？",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+   "summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SaaSの「ツギハギ管理」に悩んだクラシル、管理費24％を削減したAI時代のツール集約",
+   "summary": "SaaSの増加に伴い、台帳の突合や手動管理に追われる情シスは多い。クラシルはSaaS管理台帳を「zooba」へ集約し、ツール費用を24％削減した。しかし同社の真の目的はコスト削減ではなかった。クラシルの情シスが考える、AI時代のIT資産管理",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002909/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap",
+   "summary": "AIに実装を任せ、コードもテストも自動で進む「エージェント型開発」。効率化への期待が高まる一方、経験豊富な開発者ほど導入に慎重だ。コードが動けばそれでいい、とはいかないらしい。彼らが警戒するのは、動作確認だけでは分からない、その先のリスクだ",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「48ドルの返金が4800ドルに」　AIエージェントの暴走を止める、本番運用の勘所",
+   "summary": "Linux Foundation傘下のAgentic AI Foundation（AAIF）が「AGNTCon + MCPCon Japan 2026」を東京・渋谷で開催した。同イベントとしては日本初開催となる。MCPの共同開発者らの講演か",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能",
+   "summary": "自分のPCでAIを動かすには、PCの性能に合ったAIモデルを選んだり実行環境を構築したりする必要があり、AIとのチャットだけでなく手元のファイルを読み取らせたり加工したりするには追加の設定が必要になる場合もあります。こうした作業を自動化する",
+   "link": "https://gigazine.net/news/20261106-hob/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？",
+   "summary": "AIモデルの提供プラットフォームであるOpenRouterの調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。",
+   "link": "https://gigazine.net/news/20261106-open-closed-weight/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
+   "summary": "中国の大手テクノロジー企業であるBaiduがAIモデル「ERNIE 5.5 Flash Base」をオープンモデルとして公開しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261106-ernie-5-5-flash-base/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
+   "summary": "OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオー",
+   "link": "https://gigazine.net/news/20261106-inkling-2-small/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIが「AIデータセンターの電力やインフラは全額自己負担」「電気・水道の使用量を公表」などの約束を発表",
+   "summary": "2026年11月、アメリカで中間選挙に合わせて行われた複数の住民投票でAIデータセンターに反対する声が非常に強かったことを受けて、OpenAIがAIデータセンターの展開にあたっては地域に最大限配慮していくという内容の約束を発表しました。続き",
+   "link": "https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明",
+   "summary": "AnthropicのAIコーディングツール「Claude Code」が、ユーザーのメールアドレスを許可なく外部のウェブサイトに送信していたという問題が報告されました。2026年11月5日にGitHubで新たな問題報告が投稿されましたが、同様",
+   "link": "https://gigazine.net/news/20261106-claude-code-mail-address/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで",
+   "summary": "ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。続きを読む...",
+   "link": "https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claudeに個人向け資産管理機能が追加される、「読み取り専用」で毎月の支出などにアドバイス",
+   "summary": "AnthropicのAI「Claude」に、個人向け資産管理機能の「Personal Finance」が追加されました。銀行口座に紐付けて、Claudeから資産管理のアドバイスをもらうことができます。続きを読む...",
+   "link": "https://gigazine.net/news/20261106-claude-personal-finance/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが動画生成AI「Gemini Omni 1.2 Flash」をリリース、最大15秒の動画を出力可能",
+   "summary": "Googleが動画生成AI「Gemini Omni 1.2 Flash」を現地時間の2026年11月5日にリリースしました。続きを読む...",
+   "link": "https://gigazine.net/news/20261106-gemini-omni-1-2-flash/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Perplexityが独自の業務特化型AIエージェント「Teammates」を発表",
+   "summary": "現地時間の2026年11月4日、AI検索エンジンのPerplexityが業務特化型AIエージェント「Teammates」を発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261106-perplexity-teammates/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円",
+   "summary": "OpenAIが、社内で最高のサイバーセキュリティ検証能力を持つAIモデル「GPT-6 Cyber」を使ってLinuxカーネルの脆弱(ぜいじゃく)性を検証したと発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261106-openai-built-linux-vulnerability/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Airbnbが旅のあらゆる側面をサポートしてくれる旅行特化型AIエージェントを2027年前半に発表すると予告",
+   "summary": "民泊サービスのAirbnbが、2027年前半に旅行特化のAIエージェントをリリースする予定であると発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261106-airbnb-ai-travel-agent-2027/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+   "summary": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたた",
+   "link": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Akamai、AI推論サービス「Akamai Inference」とAIエージェント実行環境「Akamai Agent Sandbox」の提供を開始",
+   "summary": "Akamaiは10月27日（米マサチューセッツ州現地時間）、同社のクラウドインフラサービス「Akamai Cloud」において、AI基盤となる「Akamai Inference」と「Akamai Agent Sandbox」を発表した。マネ",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2153917.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "“スマートホーム＝リモコンがたくさんある家”から脱却へ!? 「IPv6で拡がるAIホーム」の世界とは　共通規格「Matter」の動向・技術について「Internet Week 2026」で講演",
+   "summary": "照明やエアコン、鍵など、お家のあれこれをスマートフォンで操作できるのは便利だけれど、メーカーごとにアプリが増えて、使い分けが面倒。「自宅をもっと快適なスマートホームにしたい」と思いながら、何を選び、どう組み合わせればよいのか迷っている方もい",
+   "link": "https://internet.watch.impress.co.jp/docs/interview/2154127.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、「マシンスピード」で脆弱性修正する「CodeMender」などAI防御策",
+   "summary": "Google Cloudは5日(米国時間)、AIエージェント時代に向けたセキュリティ機能の強化を発表した。脆弱性を発見・修正するAIエージェント「CodeMender」に新機能を追加したほか、AIエージェントの認証、脅威の検知・対応などを強",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154443.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "15秒動画を生成する「Gemini Omni 1.2 Flash」　料金は30%引き下げ",
+   "summary": "Googleは、動画生成AI「Gemini Omni 1.2 Flash」を発表した。Gemini APIや法人向けのGeminiで一般提供を開始する。生成できる動画の長さを最大15秒に拡大し、参照画像の再現性や対話による編集機能を強化。7",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154454.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "KDDIとnewmo、自動運転タクシーで資本業務提携　大阪・堺から全国へ",
+   "summary": "タクシー事業を展開するnewmoとKDDIは6日、自動運転タクシーの社会実装に向けた資本提携を締結した。KDDIは、通信、AI計算基盤、遠隔監視、高精度位置測位などの技術を提供し、newmoが持つ自動運転技術と組み合わせて、2028年に大阪",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154440.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Metaの「Muse」が音声会話に対応　表情豊かなアバターも",
+   "summary": "Metaは5日(現地時間)、AIエージェント「Muse」に音声会話機能と、会話に合わせて表情やジェスチャーが変化するアバター機能を追加すると発表した。まず米国で提供を開始し、モバイルアプリ、Web、Macで利用できる。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154389.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "国家サイバー統括室、個人情報漏えい対策の徹底を要請　AI活用や脆弱性診断など",
+   "summary": "内閣官房国家サイバー統括室(NCO)は5日、事業者向けの個人情報漏えい対策例をまとめた文書「個人情報の漏えい等につながる不正アクセスへの対策について～ウェブサイトやモバイルアプリに関する基本的な対策の徹底～」を公開した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154367.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "米国中間選挙でAIデータセンターに逆風　OpenAI、Googleらが地域貢献をアピール",
+   "summary": "アメリカの中間選挙で、民主党が勝利した。第2次トランプ政権への大きな逆風となり、政権が進めてきた積極的なAI推進策の見直しや、AIデータセンター設置への逆風なども指摘されている。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154351.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【鈴木淳也のPay Attention】なぜパスポートはダメ? 大情報漏洩時代の本人確認がマイナカードに集約される理由",
+   "summary": "近年企業や個人へのサイバー攻撃が激化しているのは既知の通りだが、要因は2つ考えられる。1つはAIの登場により攻撃のためのツール作成が容易になり、また言語の壁を破ることもたやすくなったため、これまでこの壁の存在によって、海外の犯罪グループによ",
+   "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2153056.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
