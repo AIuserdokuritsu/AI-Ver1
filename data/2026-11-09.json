@@ -1,0 +1,95 @@
+{
+ "date": "2026-11-09",
+ "groups": [
+  {
+   "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
+   "summary": "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+   "summary": "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
+   "summary": "技術はあるのに「事業化の壁」を越えられない……。この課題に直面したNECとイビデンは、独自の取り組みで成長領域を模索している。AIをどう生かすか。研究者に事業開発を任せるべきか。両社のキーパーソンが語り合った。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "コクヨが開発部門の「資料散乱」をAIでゼロに　「Notion」をどう使ったか？",
+   "summary": "社内に情報は蓄積されているのに、必要な資料が見つからない、十分に活用できない。こうした課題は開発組織でも起こりがちだ。コクヨはNotionとAIエージェントを組み合わせ、情報管理から文書レビューまでを効率化する仕組みづくりに取り組んだ。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+   "summary": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+   "summary": "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開",
+   "link": "https://gigazine.net/news/20261109-pjit-21k/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1",
+   "summary": "AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripp",
+   "link": "https://gigazine.net/news/20261108-ripple-65b-preview/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた",
+   "summary": "画像生成AIは便利な技術ですが、ロマンス詐欺やフェイクニュースなどに悪用されることもあります。生成AIで作成され画像を高精度に見分けることが可能なブラウザ拡張機能「Pangram AI Detection」が登場したので、実際にAI画像を検",
+   "link": "https://gigazine.net/news/20261108-pangram-image-ai-image-detection/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している",
+   "summary": "近年よく目にするようになった「ウォーターマーク」という言葉はメディアが本物であることを確認したりメディアの所有権を主張したりするために用いられる可視の「透かし」を指します。しかし、AIを用いて画像・動画制作ソフトを開発するArtCraftの",
+   "link": "https://gigazine.net/news/20261108-spymarks-not-watermarks/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【西田宗千佳のイマトミライ】AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影",
+   "summary": "常時動作型AIエージェントに頼るようになって2カ月ほどが経った。今はMetaのMuseをメインに使うようになっている。Museは無料で使い始められることもあってか、日本でも急速に利用者を伸ばしているようだ。",
+   "link": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
