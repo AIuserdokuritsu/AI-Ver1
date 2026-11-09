@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-10",
+ "groups": [
+  {
+   "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
+   "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオー",
+   "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
+   "summary": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型",
+   "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「MCPはもう特別な存在ではない」――その普及と“仕様改訂”がもたらした転換点",
+   "summary": "AIエージェントと外部のツールをつなぐ「MCP」が、大きな転換点を迎えています。2026年7月の仕様改訂では、サーバ側で通信の状態を保持しない「ステートレス化」が進められました。この変更は、企業がMCPを導入、運用する上で何を意味するのか。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Sakana AI「初のモバイルアプリ」開発中　テスターも募集",
+   "summary": "Sakana AIは、同社初のモバイルアプリ「Sakana AI App（仮）」を開発中と発表した。テスターも募集している。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
+   "summary": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical R",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+   "summary": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに業務を任せる大企業は6割へ　人材育成に投資しない企業はどうなる？",
+   "summary": "AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
+   "summary": "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+   "summary": "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
+   "summary": "技術はあるのに「事業化の壁」を越えられない……。この課題に直面したNECとイビデンは、独自の取り組みで成長領域を模索している。AIをどう生かすか。研究者に事業開発を任せるべきか。両社のキーパーソンが語り合った。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "コクヨが開発部門の「資料散乱」をAIでゼロに　「Notion」をどう使ったか？",
+   "summary": "社内に情報は蓄積されているのに、必要な資料が見つからない、十分に活用できない。こうした課題は開発組織でも起こりがちだ。コクヨはNotionとAIエージェントを組み合わせ、情報管理から文書レビューまでを効率化する仕組みづくりに取り組んだ。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
+   "summary": "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Vid",
+   "link": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Opusに助けを求めることができるJevならOpusと同等の精度を4分の1のコストで実現可能",
+   "summary": "JevやGPT-6 Lunaのような高速で安価な意思決定モデルを用いたアイデンティティ解決(IDR)について、最先端LLMであるClaude Opusと同等の精度を出せるかどうかをテストしたところ、JevとClaude Opusを組み合わせ",
+   "link": "https://gigazine.net/news/20261110-llm-judges-identity-resolution/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "チームでの複数人同時利用を前提としたAIエージェント「MAIA」が登場",
+   "summary": "AI開発企業のZyphraがAIエージェントツール「MAIA」のベータ版を公開しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに「3DCGのおしり」を作らせて性能を比較するベンチマーク「LLM AssBench」が登場",
+   "summary": "AIに人間のおしりの3DCGを作らせて性能を比較するベンチマーク「LLM AssBench」が公開されています。AIが生成したおしりはブラウザ上で回転させたりクリックして揺らしたりすることが可能で、さまざまなAIが作り上げたおしりを並べて比",
+   "link": "https://gigazine.net/news/20261109-llm-assbench/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claudeの記憶(メモリ)は夢見るDreaming機能で強化されており間違った記憶を修正することも可能",
+   "summary": "Claudeなどの高性能AIサービスには応答履歴に含まれる重要情報を記録しておくメモリ機能が搭載されています。Claudeのメモリ機能についての詳細をAnthropicが公式に解説しています。続きを読む...",
+   "link": "https://gigazine.net/news/20261109-ai-dreaming-agent-memory/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？",
+   "summary": "金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。続きを読む...",
+   "link": "https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される",
+   "summary": "AI物理学スタートアップのPhysical Superintelligence(PSI)が2026年11月6日、2008年から未解決だった量子コンピューティングの難問「アーロンソン＝アンバイニス予想」の証明に成功したと発表しました。証明には",
+   "link": "https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
+   "summary": "AIエージェント「Hermes Agent」を開発するNous Researchが2026年11月6日に新たなAIモデル「Arete-27B」を公開しました。中国のアリババが開発した「Qwen3.8-27B」を追加学習させたモデルで、中国政",
+   "link": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Metaの複数の従業員が海賊版ポルノ動画を見ていたことが裁判の提出書類で示される",
+   "summary": "MetaはAIのトレーニングのためにポルノ動画制作会社から違法に作品をダウンロードした疑いがあるとして、2025年夏に提訴されました。裁判が続く中で、Metaの内部調査により当該ポルノ動画にアクセスしたと思われる従業員が複数いたことが明らか",
+   "link": "https://gigazine.net/news/20261109-meta-employees-pirated-adult/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応",
+   "summary": "AI Vtuberの開発を進めているShizuku AIがリアルタイムでの日本語音声会話が可能なAI「Shizuku-Duplex」を開発したことを発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
+   "summary": "AnthropicのAIコーディングツール「Claude Code」でコマンドの実行を許可する際に「次回から表示しない」を選ぶと、コマンドに含まれるパスワードなどの秘密情報まで設定ファイルに保存される問題が明らかになりました。セキュリティ企",
+   "link": "https://gigazine.net/news/20261109-claude-code-leak-secrets/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+   "summary": "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開",
+   "link": "https://gigazine.net/news/20261109-pjit-21k/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "PCの空きメモリが10％を超えるとOpenAIのサム・アルトマン氏に告げ口するパロディスクリプトが登場【やじうまWatch】",
+   "summary": "PCのメモリ使用量を監視し、空き容量が10％を超えるとOpenAIのサム・アルトマンCEOに告げ口するパロディスクリプトがGitHubで公開中だ。",
+   "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2154694.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、AIモード検索でレストラン予約に対応　ぐるなび、一休など",
+   "summary": "Googleは6日、Google 検索のAIモード検索において、レストラン予約検索機能を発表した。「ぐるなび」、「一休」などと連携し、AIモード検索で空席情報などをリストアップできるようになり、今後数週間で順次展開していく。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154915.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Meta、MuseとMeta AIを強化　記憶力とタスク実行能力が向上",
+   "summary": "Metaは6日(現地時間)、パーソナルAIエージェント「Muse」とAIアシスタント「Meta AI」に、記憶力やタスク実行能力を強化した新たなAIモデルを導入する。上位モデル「Muse Wonder」の能力を活用して学習させた特化型モデル",
+   "link": "https://www.watch.impress.co.jp/docs/news/2154793.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【西田宗千佳のイマトミライ】AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来",
+   "summary": "常時動作型AIエージェントに頼るようになって2カ月ほどが経った。今はMetaのMuseをメインに使うようになっている。Museは無料で使い始められることもあってか、日本でも急速に利用者を伸ばしているようだ。",
+   "link": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
