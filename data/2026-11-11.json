@@ -1,0 +1,289 @@
+{
+ "date": "2026-11-11",
+ "groups": [
+  {
+   "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+   "summary": "o9ソリューションズ・ジャパンは、AI時代の新たなサプライチェーン像を提示する「o9 Connect Japan 2026」を開催した。講演ではTDKが取り組んだ、現場主導でレガシー脱却の壁を越える実践的なプロセスも紹介された。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
+   "summary": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新",
+   "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+   "summary": "「同じ質問に何度も答えている」「引き継ぎに手間がかかる」といったあるあるの悩み。Gemini Notebookなら既存のマニュアルを読み込ませるだけで、根拠付きで回答する専用AIを素早く構築できる。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
+   "summary": "ソフトバンク、NTT、KDDIがフィジカルAIビジネスに本格参入した。通信大手3社がそろって本腰を入れるのはなぜか。各社の狙いを読み解く。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NotebookLMに公式APIが登場　WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
+   "summary": "NotebookLM（現Gemini Notebook）に、個人アカウントで使える公式のREST APIとMCPサーバが公開プレビューとして登場した。今できること、まだできないこと、使う前の条件を整理し、筆者が手元で試した結果も添える。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Fable 5.2」の用途は？　Claudeモデルの選び方、Anthropicが基本を解説",
+   "summary": "米Anthropicは「Claude」のモデルの選び方を公式ブログで解説した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "dotsが「複数台のローカルコンピュータ接続」に対応　各マシンでタスクを分担可能に",
+   "summary": "OpenAIは常時稼働型エージェントツール「dots」が複数台のローカルコンピュータに接続できるようになったと発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Instagram、年齢を偽った10代もAIで検出　日本でも保護機能の適用を開始",
+   "summary": "Metaは、Instagramで成人として年齢登録していても、AIが10代と推定したユーザーには「ティーンアカウント」の保護機能を強制適用する取り組みを日本を含む世界各国に拡大すると発表した。日本では同月10日より導入する。年齢詐称による制",
+   "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AdobeとDisneyが戦略的提携　「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+   "summary": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開",
+   "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "“何でもリバースエンジニアリング”生成AIで広がる　ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険",
+   "summary": "AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（",
+   "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「オープンなAIモデル」に関する資料を無料公開、NII　「LLM-jp」の開発手法など解説",
+   "summary": "国立情報学研究所（NII）は、オープンなAIモデルに関する講演資料を公開した。11月5日に開催したイベント「第2回オープン大規模言語モデルシンポジウム」で使われたもの。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？",
+   "summary": "AIの市場規模は急速に拡大しつつあり、2030年には4兆2000億ドル(約660兆円)に達するとの予測もありますが、一方で「AIブームはバブルに過ぎない」と冷ややかな見方もあります。そんな中でエンジニアのMatteo Raso氏が、「AIは",
+   "link": "https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
+   "summary": "AnthropicのAIモデル「Claude Opus 5.5」の推論能力が2026年11月3日頃から急激に低下した可能性が指摘されています。開発者のシェーン・メロー氏がAIによるプログラミング支援ツール「Claude Code」の利用履歴",
+   "link": "https://gigazine.net/news/20261110-claude-opus-nerf/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "年齢を偽る13～17歳までの数百万人のユーザーに対してInstagramの10代アカウント保護機能を適用するためAIによる年齢推定技術を世界規模で拡大するとMetaが発表",
+   "summary": "Metaが年齢を偽る13～17歳の若者に対してもアカウント保護機能を提供するため、AIを用いた年齢推定技術を全世界規模に拡大すると発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261110-expanding-teen-account-protections-teens/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが新型AIチップ「TPU 8tx」「TPU 8i Max」を発表、AMD製CPUを採用した機密情報保護モデルと処理性能2倍のモデルが登場",
+   "summary": "Googleが2026年11月9日にAI処理に特化した第8世代TPUの新システム「TPU 8tx」と「TPU 8i Max」を発表しました。TPU 8txはAMD製CPUと組み合わせて機密データを安全に処理できるシステムで、TPU 8i M",
+   "link": "https://gigazine.net/news/20261110-google-tpu-8i-max-8tx/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAのCEO不倫事件関連でスパイ疑惑のMegaspeed社に対する調査にNVIDIAが介入しようとしていたことが判明",
+   "summary": "NVIDIAのジェンスン・フアンCEOが、NVIDIA製AIチップを中国に横流ししている疑いがあるシンガポール企業Megaspeedの幹部女性と不倫しました。これに関連し、Megaspeedを調査していたアメリカの商務省に、NVIDIAの弁",
+   "link": "https://gigazine.net/news/20261110-nvidia-megaspeed-commerce-dept-investigation/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？",
+   "summary": "Metaが2026年11月9日に発表した小型AIモデル「Muse Ember」について、AIモデルの評価を行うArtificial Analysis、Vals AI、Arena.aiなどがベンチマーク結果を公開しました。Muse Ember",
+   "link": "https://gigazine.net/news/20261110-meta-muse-ember-benchmark/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
+   "summary": "Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェ",
+   "link": "https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ディズニーとAdobeが生成AI活用で複数年契約を結びパークやメディアコンテンツにAI導入",
+   "summary": "Adobeが、自社のソフトやディズニーのコンテンツに合わせてカスタマイズした独自モデルをディズニーに提供するパートナーシップを締結したと発表しました。ディズニーは「Adobe Firefly」などのAIを取り入れてディズニーランド等で活用し",
+   "link": "https://gigazine.net/news/20261110-adobe-disney-partnership/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現",
+   "summary": "Metaが2026年11月9日、同社のAIモデル「Muse」シリーズで最も小型かつ効率的だとする新モデル「Muse Ember」を発表しました。AIエージェントによるプログラミングやツール操作などの反復作業に特化しており、Metaによると、",
+   "link": "https://gigazine.net/news/20261110-meta-muse-ember/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ソラコム、フィジカルAIシステム向けに、通信・セキュリティ・運用を支援する「SORACOM フィジカルAI Suite」を提供",
+   "summary": "株式会社ソラコムは11月10日、ロボットや自律走行モビリティ、産業機器などのフィジカルAIシステム向けに、通信・セキュリティ・運用を支援する「SORACOM フィジカルAI Suite」の提供を開始した。利用料金は、利用内容に応じた個別見積",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155324.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "道路を「AIが検索・比較・分析できる条件空間」へ変換する技術が開発中【地図と位置情報】",
+   "summary": "自動運転の共通データ基盤として国内外の高精度3次元地図データ（HDマップ）の整備を進めるダイナミックマッププラットフォーム株式会社（DMP）は11月5日、同社のこれまでの取り組みと今後の方針に関する記者説明会を都内にて開催した。この説明会で",
+   "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2155255.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "LINEヤフー、AIエージェント「Agent i」の独立したスマホアプリ提供開始",
+   "summary": "LINEヤフー株式会社は11月10日、AIエージェント「Agent i」のスマートフォン・タブレット版アプリ（iOS版）の提供を開始した。Android版は順次提供予定だとしている。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155270.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2155138.html"
+    }
+   ]
+  },
+  {
+   "title": "アドビ、Creative CloudにAIエージェント拡充　複数アプリを横断して制作支援",
+   "summary": "アドビは、クリエイター向けイベント「Adobe MAX」で、Creative Cloudの新機能を発表した。各アプリへのAIアシスタントの搭載を拡大するほか、外部のAIエージェントからアドビのツールを利用する「Adobe Creative ",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155285.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アドビとグーグルが提携拡大　Geminiで画像・PDF編集　GmailからAcrobat",
+   "summary": "アドビとグーグルは10日(米国時間)、戦略的提携の拡大を発表した。Google WorkspaceのGmailやGoogleドライブから「Adobe Acrobat」を直接利用できるようにするほか、GoogleのAI「Gemini」からアド",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155258.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アドビ、Fireflyに新デザインツール　画像・3D・動画制作を強化",
+   "summary": "アドビは、クリエイティブAIスタジオ「Adobe Firefly」の機能拡充を発表した。画像やアニメーション、3Dなどを1つのカンバスで扱う「Firefly デザイン」や、制作ワークフローを構築する「Firefly グラフ」をパブリックベー",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155159.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アドビとディズニー、AIツール活用で戦略的提携",
+   "summary": "米アドビとウォルト・ディズニー・カンパニーは9日(米国時間)、AIツールの活用に関する複数年の戦略的提携を発表した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155284.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ソフトバンクGら、マレーシアでAIインフラ開発　10億ドル投資へ",
+   "summary": "ソフトバンクグループは、マレーシア・サラワク州でのAIインフラ開発に向け、東南アジアでスーパーアプリを展開するGrab Holdingsと、サラワク州所有の総合エネルギー企業Petroleum Sarawak(PETROS)との共同開発契約",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155165.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Meta、反復タスクの大量処理に向けた効率モデル「Muse Ember」",
+   "summary": "Metaは9日(米国時間)、効率重視のAIモデル「Muse Ember」を発表した。Muse CodeおよびMeta Model API、Google Cloud、Oracle Cloudで利用できる。API料金は、100万トークンあたりの",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155142.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "インスタグラム、年齢推定AIを日本でも開始　年齢を偽っても保護機能を適用",
+   "summary": "Metaは10日、InstagramでAIを活用して利用者の年齢を推定し、10代と判断されたアカウントに「ティーンアカウント」の保護機能を適用する取り組みを日本でも開始した。登録された生年月日が18歳以上を示していても、AIが10代と推定し",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155108.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google、次世代AI向けTPU拡充　大容量処理の「8i Max」と機密保護の「8tx」",
+   "summary": "Googleは、第8世代のAI向けアクセラレータ「TPU」に、大規模なコンテキスト処理に対応する「TPU 8i Max」と、機密性の高いデータの処理に適した「TPU 8tx」を追加すると発表した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155090.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
