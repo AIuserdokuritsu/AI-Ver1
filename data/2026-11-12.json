@@ -1,0 +1,415 @@
+{
+ "date": "2026-11-12",
+ "groups": [
+  {
+   "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
+   "summary": "Googleは同社最先端のAIモデル「Gemini 4 Carbon」の一般提供を開始。同時に、大規模な開発プロジェクトを効率的に遂行するためのマルチエージェントチーム編成機能「/swarm」も発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2155392.html"
+    }
+   ]
+  },
+  {
+   "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
+   "summary": "会社員の仕事に「Claude Fable 5.2」は必要か。白書の要約と資料作成、取材前の調査で「Opus 5.5」「Sonnet 5.5」と出力のクオリティや利用コストを比較した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
+   "summary": "Googleは、ツールの選択や条件判定など選択肢から答えを選ぶ用途に特化した「Gemini Decisions API」を発表した。専用モデルを用い、テキストや画像などのマルチモーダル入力を1回の推論で評価し、確率と信頼度スコアを返す。従来",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AWSで「ChatGPT Enterprise」を購入可能に　AWSアカウントで一括管理するメリットは",
+   "summary": "OpenAIは「ChatGPT Enterprise」をAWS Marketplaceで提供開始した。企業は既存のAWSアカウントや契約枠でChatGPT Enterpriseを購入・管理できる。企業のAI調達はどう変わるのか。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「非言語系AI」はLLMの弱点を補えるか？　Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
+   "summary": "AIの議論は「何ができるか」から「どう統制するか」へ――。Gartnerは2027年のトップ・トレンド10項目の大半を、自律型エージェントの統制と変化に耐える基盤の設計に充てた。一方で同社が「まだ不足している」とする、AIの頭脳に当たる3つ",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Enterpriseがセキュリティと管理機能を強化　DLP・EDR連携など新機能の全容は",
+   "summary": "Anthropicは「Claude Enterprise」のセキュリティと管理機能の拡充を発表した。設定状況の一覧化やDLP連携、個人アカウントの遮断などによって、企業のAI統制とシャドーIT対策を支援する。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「成果志向のBIM」とは何か？　Autodeskが描くAI時代の鉄道インフラ",
+   "summary": "米Autodeskは、イタリア・ローマで鉄道業界向けの年次カンファレンス「Autodesk Rail Summit 2026」を開催した。設計情報のモデル化や共有にとどまらず、AIと人間が協働して目標とする成果の実現を目指す「成果志向のBI",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/12/news016.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「APIを呼ぶのは、もう人間ではない」　進化するMCPとOpenAPIとの“新しい関係”",
+   "summary": "2026年7月の仕様改訂によって、「MCP」は既存のWeb技術との親和性を高めました。これが意味するのは、企業の既存のAPIをAIエージェントから利用するための仕組みが整いつつあるということです。AIエージェントが自らAPIを選び、呼び出す",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/12/news004.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
+   "summary": "クラウド型ワークスペース「Notion」を運営する米Notion Labsは、Notionで使えるAIサービス「Notion AI」のチャット記録が漏えいした恐れがあると発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+   "summary": "「同じ質問に何度も答えている」「引き継ぎに手間がかかる」といったあるあるの悩み。Gemini Notebookなら既存のマニュアルを読み込ませるだけで、根拠付きで回答する専用AIを素早く構築できる。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "中国AI「Qwen4」ついに登場　プレビュー版を提供開始、AlibabaのAIサービスで",
+   "summary": "中国Alibaba Cloudは、AIモデル「Qwen4」を発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
+   "summary": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開",
+   "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
+   "summary": "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
+   "summary": "Sceneは、3D手順書作成ソリューション「3D Docs」において、過去の組立順序（M-BOM）をAIに学習させる新機能の提供を開始した。自社の組立ノウハウを反映したM-BOMを生成することで、新製品の組立検討や生産準備の前倒し、技術継承",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
+   "summary": "スタディストは、新プロダクト「Teachme Knowledge」と、Teachmeシリーズの新構想「Connect」の発表会を開催した。現場の動画や文書を事前の仕分けなしに投入することででAIが要約／構造化を行う仕組みを提供し、熟練者の暗",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+   "summary": "o9ソリューションズ・ジャパンは、AI時代の新たなサプライチェーン像を提示する「o9 Connect Japan 2026」を開催した。講演ではTDKが取り組んだ、現場主導でレガシー脱却の壁を越える実践的なプロセスも紹介された。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
+   "summary": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新",
+   "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
+   "summary": "ソフトバンク、NTT、KDDIがフィジカルAIビジネスに本格参入した。通信大手3社がそろって本腰を入れるのはなぜか。各社の狙いを読み解く。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
+   "summary": "AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strand",
+   "link": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か",
+   "summary": "元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：S",
+   "link": "https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleのAI「Gemini」は個人のGoogleドライブ内のファイルやGmailを人間のレビュー担当者が見ることができるようにしている可能性がある",
+   "summary": "GoogleのAI「Gemini」にはログインしたアカウントのGmailやGoogleドライブと連携してよりパーソナルなチャットやデータ分析を行うことができる機能があります。この機能が明示的に指示していない場合でも個人データを参照しており、",
+   "link": "https://gigazine.net/news/20261111-gemini-drive/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
+   "summary": "Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料",
+   "link": "https://gigazine.net/news/20261111-gemini-4-carbon/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
+   "summary": "AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、N",
+   "link": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功",
+   "summary": "Google DeepMindがソフトウェアの検証を行うためのマルチエージェントAIフレームワーク「AlphaProof Code」を発表しました。研究チームはAlphaProof Codeを用いて、Googleメッセージなどの暗号通信に使",
+   "link": "https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話",
+   "summary": "部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンやタブレットなどのマイクを活用し、最終的に音",
+   "link": "https://gigazine.net/news/20261111-mysterious-beeps/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAが仮想的な日本人900万人分の家計や財務状況を含めたペルソナをまとめたデータセットを公開",
+   "summary": "NVIDIAは11月10日に東京都で主催した開発者向けイベント「NVIDIA Agentic AI Day」において、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」と「Ne",
+   "link": "https://gigazine.net/news/20261111-nemotron-personas-finance-japan/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleがロボット用AI「Gemini Robotics 2.5」を発表",
+   "summary": "Google DeepMindがロボット工学用AIモデル「Gemini Robotics 2.5」を2026年11月10日に発表しました。現実世界でより速く学習し、日常生活から工場での勤務まであらゆる場面に対応できるように調整されています。",
+   "link": "https://gigazine.net/news/20261111-gemini-robotics-2-5/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
+   "summary": "Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。続きを読む...",
+   "link": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI搭載人工衛星に音声で命令して宇宙で『DOOM』を起動することに成功",
+   "summary": "欧州宇宙機関(ESA)の人工衛星に地上から音声で命令し、宇宙空間でFPSゲーム『DOOM』を起動する実験が成功しました。人工衛星に搭載されたAIが音声を認識してゲームを起動する仕組みで、2026年4月から7月にかけて7回の実験が行われ、最終",
+   "link": "https://gigazine.net/news/20261111-doom-satelite-ops-sat/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に",
+   "summary": "Adobeは2026年11月10日、クリエイター向けイベント「Adobe MAX 2026」で、PhotoshopやPremiere Proなどの主要アプリを外部のAIエージェントから操作できるようにするModel Context Prot",
+   "link": "https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "エレコム、2.5Gbps対応のWi-Fi 7ルーター2製品を発売、AIセキュリティ機能「SENSE」搭載モデルも　「WRC-BE64QS-B」と「WRC-BE64QSD-B」",
+   "summary": "エレコム株式会社は、2.5Gbps WAN対応のWi-Fi 7ルーター「WRC-BE64QS-B」と、同じ仕様でAIセキュリティ機能「F-Secure SENSE」を搭載したモデル「WRC-BE64QSD-B」を、11月中旬より発売する。前",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155603.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "iPhoneの「Siri AI」とChatGPTの連携で資料の内容を詳しく聞く！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】",
+   "summary": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
+   "link": "https://internet.watch.impress.co.jp/docs/column/homewifi/2154790.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ソラコム、IoTやフィジカルAIシステムのセキュリティ診断・堅牢化サービスを提供開始",
+   "summary": "株式会社ソラコムは11月10日、IoTやフィジカルAIをはじめ、ネットワークにつながるシステムを対象とした「IoT・フィジカルAIシステム セキュリティ診断・堅牢化サービス」の提供を開始した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155416.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "海外掲示板「Reddit」、AIを活用した製品レビュー事業に参入。海外メディアはどう報じた？【やじうまWatch】",
+   "summary": "海外掲示板「Reddit」が製品のレビュー事業を本格展開することを発表し、話題になっている。",
+   "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2155364.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ソラコム、フィジカルAIシステム向けに、通信・セキュリティ・運用を支援する「SORACOM フィジカルAI Suite」を提供",
+   "summary": "株式会社ソラコムは11月10日、ロボットや自律走行モビリティ、産業機器などのフィジカルAIシステム向けに、通信・セキュリティ・運用を支援する「SORACOM フィジカルAI Suite」の提供を開始した。利用料金は、利用内容に応じた個別見積",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155324.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "道路を「AIが検索・比較・分析できる条件空間」へ変換する技術が開発中【地図と位置情報】",
+   "summary": "自動運転の共通データ基盤として国内外の高精度3次元地図データ（HDマップ）の整備を進めるダイナミックマッププラットフォーム株式会社（DMP）は11月5日、同社のこれまでの取り組みと今後の方針に関する記者説明会を都内にて開催した。この説明会で",
+   "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2155255.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "LINEヤフー、AIエージェント「Agent i」の独立したスマホアプリ提供開始",
+   "summary": "LINEヤフー株式会社は11月10日、AIエージェント「Agent i」のスマートフォン・タブレット版アプリ（iOS版）の提供を開始した。Android版は順次提供予定だとしている。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155270.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "DeepL、感情や抑揚の変化も伝える音声翻訳AI「Aure」",
+   "summary": "DeepLは、リアルタイム音声翻訳サービス「DeepL Voice」向けの新音声AIモデル「Aure」を発表した。話者の声の特徴を保ちながら、会話中に変化するトーンや感情、強調、話すペースを翻訳音声にリアルタイムで反映する。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155621.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Yahoo!ショッピング、配送状況をAIが説明する「AIお届け情報」",
+   "summary": "Yahoo!ショッピングは、商品の到着予定や配送状況をAIが説明する「AIお届け情報」の提供を開始した。注文情報やストアの状況などをもとに、商品が届くまでの見通しを案内し、購入後の不安やストアへの問い合わせ負担の軽減を目指す。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155588.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI、APIの処理・推論が国内で可能に　GPT-6 Lunaから",
+   "summary": "OpenAIは11日、OpenAI APIで提供する「GPT-6 Luna」について、リクエストの処理とモデルの推論を日本国内で行なえる機能の一般提供を開始した。対象はテキストと画像の入力、テキストの出力で、利用条件を満たす企業や開発者が利",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155544.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NTT、“未来を予測する”フィジカルAI　ロボットの失敗を回避",
+   "summary": "NTTは11日、ロボットが行動する前に、荷崩れや落下などのリスクを予測し、成功率の高い行動を選択できるフィジカルAI技術を発表した。物理法則に基づいて物体の動きなどを予測する「NTTワールドモデル」を活用し、複数の行動候補を事前に評価するこ",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155271.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ロボットがリボンを結び、トングで盛り付け Google新AI",
+   "summary": "Google DeepMindは、ロボット向けAIモデル「Gemini Robotics 2.5」を発表した。道具の使用や柔らかい物体の操作などに対応し、作業の成功率と速度、安全性を向上。ロボット開発パートナーへの提供を開始している。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155510.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPT、企業が自社情報を管理可能に　独自エージェント公開も",
+   "summary": "OpenAIは10日(米国時間)、ChatGPT上で企業が自社情報を管理し、ChatGPTユーザーとつながるための新機能「Businesses in ChatGPT」のベータ版を提供開始した。企業向け管理ツール「Business Hub」を",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155498.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google PixelでGeminiがタスク実行　「Pixel Drop」提供開始",
+   "summary": "Googleは、Pixelシリーズのスマートフォンやスマートウォッチを対象にした機能アップデート群「Pixel Drop」の提供を開始した。11日以降順次、数週間かけて提供される。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155478.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude、Excel的な表計算「Claude Sheets」や「Claude Data」など新機能",
+   "summary": "Anthropicは10日(米国時間)、AIサービス「Claude」で利用できるオフィススイート的なツールを発表した。表計算の「Claude Sheets」、ホワイトボードツール「Claude Whiteboards」、データ/ダッシュボー",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155330.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
