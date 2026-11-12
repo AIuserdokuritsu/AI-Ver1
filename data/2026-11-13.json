@@ -1,0 +1,366 @@
+{
+ "date": "2026-11-13",
+ "groups": [
+  {
+   "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
+   "summary": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度",
+   "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "GIGAZINE",
+     "link": "https://gigazine.net/news/20261112-google-deepmind-alphagenome-2/"
+    }
+   ]
+  },
+  {
+   "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
+   "summary": "Googleは、ツールの選択や条件判定など選択肢から答えを選ぶ用途に特化した「Gemini Decisions API」を発表した。専用モデルを用い、テキストや画像などのマルチモーダル入力を1回の推論で評価し、確率と信頼度スコアを返す。従来",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2155831.html"
+    }
+   ]
+  },
+  {
+   "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
+   "summary": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べ",
+   "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
+   "summary": "NECは5年間でデータ基盤を整え、従業員から経営トップまでが同じダッシュボードで判断する文化を定着させた。だが、AIで経営の意思決定を支援する段階に進もうとしたとき、人の利用を前提に整備したデータカタログだけでは「足りない」ことに気付いたと",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
+   "summary": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点",
+   "summary": "APIセキュリティベンダーSalt Securityの調査では、約半数の組織がAIエージェントによる意図しない行動を確認していることが分かった。一方で組織は、AIエージェントの想定外の行動を自動的に止められていない。対策として何が求められる",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2?3カ月で完成させた方法",
+   "summary": "JR九州は「Google Workspace with Gemini」を導入して非エンジニアによる業務アプリの内製化を進めている。IT人材不足や外部ベンダー依存といった課題の解決だけではない、同社が内製開発に取り組む理由とは。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "なぜゾーホーは「広告を載せない」のか？　情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
+   "summary": "企業で機密情報の漏えいが相次いでいる。業務効率化とデータ保護の板挟みになる中、インドのゾーホーは、無料版でも広告を載せず「顧客データをAI学習に一切使わない」設計を敷く。自社データを競合へ流出させず、安全にAIを活用する防衛術を、同社AI研",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
+   "summary": "NVIDIAは、東京都内で開催したAIエージェントの技術イベント「NVIDIA Agentic AI Day Japan 2026」において、日本語AIの開発を支援する2つの合成データセット「Nemotron-Personas-Financ",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに書かせたkintoneのコード、そのまま使って大丈夫？　無料診断の提供始まる",
+   "summary": "業務に合わせて柔軟にカスタマイズできる「kintone」。だが、AIで生成したコードや外部プラグインには、APIキーの埋め込みや脆弱性など、動作確認だけでは見つけにくいリスクがある。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003159/",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか",
+   "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案に起因し、情報流出した可能性があるとする日本企業の報告が相次いでいる。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+   "summary": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sa",
+   "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
+   "summary": "パナソニックホールディングス（HD）は11月11日、AIとロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。約250人体制で開発を進め、工場や物流など自社が強みを持つ領域で3～5年先を見据えて事業成果につなげる",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる",
+   "summary": "ユーザーは、Museのメアドから店舗などに予約メールを送らせたり、予定関連のメールをMuseのメアドに転送してカレンダーに予定を入れさせたりできるようになる。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI APIで国内推論可能に　GPT-6 Lunaのみ",
+   "summary": "OpenAIが提供するAPIで「GPT-6 Luna」に限り「国内推論」が可能になった。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+   "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Mus",
+   "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+   "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不",
+   "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
+   "summary": "会社員の仕事に「Claude Fable 5.2」は必要か。白書の要約と資料作成、取材前の調査で「Opus 5.5」「Sonnet 5.5」と出力のクオリティや利用コストを比較した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場",
+   "summary": "Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開",
+   "link": "https://gigazine.net/news/20261113-aws-emulator/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
+   "summary": "AIにプログラムを作成させると短時間で動作するコードを得られますが、機能の追加を繰り返すうちに古い処理との整合性が崩れたりコードが複雑になったりすることがあります。こうした問題を調べるために開発され、AI自身が作ったコードに新しい仕様を段階",
+   "link": "https://gigazine.net/news/20261112-slopcodebench/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GmailやGoogleフォトの情報をGoogle検索のAIや広告に使わせないための設定方法まとめ",
+   "summary": "Googleは2026年10月16日にプライバシーポリシーを改定し、ユーザーがGmailやGoogleフォトの情報をパーソナライズド広告に対応する別のGoogleサービスで使うことを許可した場合、その情報が広告のカスタマイズにも使われること",
+   "link": "https://gigazine.net/news/20261112-google-gmail-photos-search-ads/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "レーザー兵器を搭載したAI潜水ロボット3500台がサケ養殖場を巡回しサケジラミを駆除して1億1200万匹の魚を守っている",
+   "summary": "ノルウェーのサケ養殖場ではAIを搭載した水中ロボットが魚に付着した寄生虫を検出し、レーザーで駆除する取り組みが広がっています。テクノロジー系メディアのTom's Hardwareによると、水中ロボットの稼働台数は3500台を超えているとのこ",
+   "link": "https://gigazine.net/news/20261112-stingray-marine-solutions-ai-robots-salmon/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
+   "summary": "企業が持つあらゆるデータやシステムがデジタル化され、AIの活用が進む昨今においては、膨大なデータを保存しているデータセンターが企業の核となっています。そんなデータセンターがスプリンクラーの「誤作動」によって危うく水没しかけたというヒヤリハッ",
+   "link": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ComfyUIのテキスト生成速度が2倍に向上、ツリー型MTPやカーネル最適化によりLLMやVLMの実行を高速化しプロンプト強化などで威力を発揮",
+   "summary": "ComfyUIの主な用途は画像生成や動画生成ですが、プロンプトの品質向上や動画ストーリー作成などに対応するためにLLMやVLMによるテキスト生成もサポートしています。ComfyUIではバージョン0.40.0から0.45.0にかけてテキスト生",
+   "link": "https://gigazine.net/news/20261112-comfyui-llm-doubling/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ユナイテッド航空がAIを利用したフライト予約を禁止",
+   "summary": "アメリカの大手航空会社・ユナイテッド航空が、AIエージェントやAIアシスタントを利用したフライトの予約を禁止したと発表しました。理由としては情報漏洩(ろうえい)の懸念やマイルの不正利用防止のほか、当局の規制に違反する可能性が挙げられています",
+   "link": "https://gigazine.net/news/20261112-united-airlines-bans-ai-agents/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエージェントが公的機関に記録のないマヤ文明の遺跡をたった数十時間で再発見したとの報告",
+   "summary": "AIテクノロジーは急速に発展しており、近年では学術研究にAIが利用されることが一般的になっています。イタリア出身のAI研究者であるピエトロ・ミオティ氏が、「AIエージェントを使って公式登録簿から漏れていたマヤ文明の遺跡を再発見した」という事",
+   "link": "https://gigazine.net/news/20261112-ai-agents-rediscovered-maya-site/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開",
+   "summary": "動画生成AIの「Runway」シリーズや動画編集AI「Aleph 2.0」などを展開するアメリカの生成AI企業・Runwayが、動画の事前学習を実際のロボットの制御に変換するオープンウェイトワールドアクションモデル「Praxis-1」を発表",
+   "link": "https://gigazine.net/news/20261112-praxis-1/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース",
+   "summary": "大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「G",
+   "link": "https://gigazine.net/news/20261112-gemini-decisions-1/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能",
+   "summary": "AppleがMacでAIをローカル実行するためのアプリ「Harbor」を開発中であることが判明しました。開発はApple傘下のClarisが担当しています。続きを読む...",
+   "link": "https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+   "summary": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い",
+   "link": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NTT、少ないデータから特定の専門性を有したLLMにチューニングする技術を開発　企業の業務マニュアルの学習などに新手法",
+   "summary": "NTT株式会社は11月12日、企業の業務マニュアルの知識を大規模言語モデル（LLM）に定着させるための新たなチューニング技術を開発したと発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155928.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ESET、サイバーセキュリティ特化型のAIモデル「ESET NeoCortex」を発表",
+   "summary": "イーセットジャパン株式会社（ESET）は11月11日、サイバーセキュリティ特化型のAIモデル「ESET NeoCortex」を発表した。同モデルは、同社の統合セキュリティプラットフォーム「ESET PROTECT Platform」で提供さ",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155839.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
+   "summary": "つい先日まで可能だった、AIを用いたリバースエンジニアリングがここ数日でできなくなったとの報告が、世界各地で上がっている。",
+   "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2155772.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "エレコム、2.5Gbps対応のWi-Fi 7ルーター2製品を発売、AIセキュリティ機能「SENSE」搭載モデルも　「WRC-BE64QS-B」と「WRC-BE64QSD-B」",
+   "summary": "エレコム株式会社は、2.5Gbps WAN対応のWi-Fi 7ルーター「WRC-BE64QS-B」と、同じ仕様でAIセキュリティ機能「F-Secure SENSE」を搭載したモデル「WRC-BE64QSD-B」を、11月中旬より発売する。前",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155603.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アンカーAIレコーダ「Soundcore Work」に音声入力モード Typelessと連携",
+   "summary": "アンカー・ジャパンは、AIボイスレコーダー「Soundcore Work」に、AI音声入力ツール「Typeless」と連携させるファームウェアを12日から提供開始した。新たな音声入力モードの追加と、Typeless連携により、自然に話した内",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155965.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "CarPlayでGeminiが利用可能に　運転中にメール確認やAIと会話",
+   "summary": "グーグルは11日(米国時間)、Appleの車載システム「CarPlay」において、AIアシスタント「Gemini」の提供を開始した。運転中でも音声でGemini Liveと対話し、メールの確認や予定の把握、アイデア出しなどができる。iOS向",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155992.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AnkerとNottaが協業　法人向けAIボイスレコーダー、議事録をチームで共有",
+   "summary": "アンカー・ジャパンは、Nottaと協業し、法人向けAIボイスレコーダー「Anker Soundcore Work for Notta」の注文受付を12日に開始した。Ankerの小型AIボイスレコーダー「Soundcore Work」とNot",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155956.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アマゾン、新AI買い物アシスタント「Alexa for Shopping」を日本展開",
+   "summary": "Amazonは、AIショッピングアシスタント「Alexa for Shopping」を展開する。Alexaのサービスの一部として、Amazonショッピングアプリと、Amazon.co.jpで提供する。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155885.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "シャープの対話AI「ポケとも」にぶっきらぼうな「おれさまタイプ」",
+   "summary": "シャープは、対話AIキャラクター「ポケとも」の第2弾「おれさまタイプ」を12月5日に日本と台湾で発売する。複数のポケともで会話回数を分け合える「シェアプラン」や、ポケとも同士が会話する新機能も提供する。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2155818.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
