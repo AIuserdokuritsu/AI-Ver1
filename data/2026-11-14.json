@@ -1,0 +1,244 @@
+{
+ "date": "2026-11-14",
+ "groups": [
+  {
+   "title": "GoogleのGemini搭載スマートグラス「Intelligent Eyewear」が予約受付開始、70以上の言語のリアルタイム翻訳やハンズフリーでのAI操作が可能",
+   "summary": "Googleは2026年11月12日、SamsungおよびメガネブランドのWarby Parker、Gentle Monsterと共同開発したスマートグラス「Intelligent Eyewear」の予約受付を開始しました。AIアシスタント",
+   "link": "https://gigazine.net/news/20261113-google-intelligent-eyewear/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2156222.html"
+    }
+   ]
+  },
+  {
+   "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+   "summary": "ダイナーの一角から、AI時代の主役「NVIDIA」を生み出したジェンスン・フアン氏。“皿洗い”から億万長者へと至った半生を振り返る。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
+   "summary": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化",
+   "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
+   "summary": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+   "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+   "summary": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
+   "summary": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べ",
+   "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
+   "summary": "NECは5年間でデータ基盤を整え、従業員から経営トップまでが同じダッシュボードで判断する文化を定着させた。だが、AIで経営の意思決定を支援する段階に進もうとしたとき、人の利用を前提に整備したデータカタログだけでは「足りない」ことに気付いたと",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点",
+   "summary": "APIセキュリティベンダーSalt Securityの調査では、約半数の組織がAIエージェントによる意図しない行動を確認していることが分かった。一方で組織は、AIエージェントの想定外の行動を自動的に止められていない。対策として何が求められる",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2?3カ月で完成させた方法",
+   "summary": "JR九州は「Google Workspace with Gemini」を導入して非エンジニアによる業務アプリの内製化を進めている。IT人材不足や外部ベンダー依存といった課題の解決だけではない、同社が内製開発に取り組む理由とは。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "なぜゾーホーは「広告を載せない」のか？　情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
+   "summary": "企業で機密情報の漏えいが相次いでいる。業務効率化とデータ保護の板挟みになる中、インドのゾーホーは、無料版でも広告を載せず「顧客データをAI学習に一切使わない」設計を敷く。自社データを競合へ流出させず、安全にAIを活用する防衛術を、同社AI研",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
+   "summary": "NVIDIAは、東京都内で開催したAIエージェントの技術イベント「NVIDIA Agentic AI Day Japan 2026」において、日本語AIの開発を支援する2つの合成データセット「Nemotron-Personas-Financ",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに書かせたkintoneのコード、そのまま使って大丈夫？　無料診断の提供始まる",
+   "summary": "業務に合わせて柔軟にカスタマイズできる「kintone」。だが、AIで生成したコードや外部プラグインには、APIキーの埋め込みや脆弱性など、動作確認だけでは見つけにくいリスクがある。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003159/",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
+   "summary": "ChatGPTなどに代表される大規模言語モデルは、その根本的な仕組みとして、モデル自身は自分の回答が合っているか間違っているかを判断できません。そのためこの手のAIには事実ではないことをまるで事実かのように話してしまう「幻覚(ハルシネーショ",
+   "link": "https://gigazine.net/news/20261114-llm-fluency-credible/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "古いiPadやメモリ1GBの小型端末でも160億パラメータのAIをローカルで動かせる無料ツール「smolmaxxing」が登場",
+   "summary": "古いタブレットや小型デバイスでもAIモデルを動かせるようにするオープンソースプロジェクト「smolmaxxing」が公開されました。メモリ容量が限られた端末でもAIモデルを実行できるようにするもので、2013年発売の初代iPad Airや小",
+   "link": "https://gigazine.net/news/20261113-smolmaxxing/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
+   "summary": "アメリカは高性能AIチップの中国への輸出を制限しており、中国も輸入を制限しています。しかし、AI研究組織のUnemployment Labsが複数の中国製AIモデルを分析した結果、制限対象GPUを用いて開発された痕跡が発見されました。続きを",
+   "link": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到",
+   "summary": "人気インディーゲーム「Big Walk」の開発元がゲームのプログラムのごく一部に生成AIを使用したことを公表したところ、400件以上の低評価レビューが殺到する事態となりました。生成AIが関わったコードは全体の0.1％未満で、主に技術的な問題",
+   "link": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明",
+   "summary": "AIユーザーと非AIユーザーを比べたとき、平均労働時間はAIユーザーのほうが最大で90分長いことが明らかになりました。この数字は従業員モニタリングソフトウェアを開発・提供しているActivTrakの研究部門・ActivTrak生産性研究所が",
+   "link": "https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleがAIでカスタマイズできる共同作業・プランニングハブを構築するための実験的AIプラットフォーム「Tabletop」ベータ版をリリース",
+   "summary": "Googleが新しい実験プロジェクト「Tabletop」を発表しました。リンクやファイルを共有スペースにドロップしてTabletopにプロンプトを入力することで、複数人で活用できるコラボレーションスペースをAIが即席で作成します。続きを読む",
+   "link": "https://gigazine.net/news/20261113-google-tabletop/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
+   "summary": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Mi",
+   "link": "https://gigazine.net/news/20261113-microsoft-365-down/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
+   "summary": "Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複",
+   "link": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleがGemini搭載スマートグラスによる盗撮やプライバシー侵害を防ぐための対策を発表",
+   "summary": "Googleが2026年11月12日、AIアシスタントのGeminiを搭載したスマートグラスの予約受付を開始するとともに、プライバシー保護対策の詳細を公開しました。装着者だけでなく周囲の人々のプライバシーも保護するため、ハードウェアとソフト",
+   "link": "https://gigazine.net/news/20261113-google-smart-glasses-privacy/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NTT、少ないデータから特定の専門性を有したLLMにチューニングする技術を開発　企業の業務マニュアルの学習などに新手法",
+   "summary": "NTT株式会社は11月12日、企業の業務マニュアルの知識を大規模言語モデル（LLM）に定着させるための新たなチューニング技術を開発したと発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2155928.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "王なきAIの世界で　ジェンスン・フアン氏退任とAIへの逆風",
+   "summary": "Impress Watchニュースレターに掲載した記事です。ニュースレターは無料で、毎週編集部員が会員向けのコラムなどをお送りしています。登録はこちらから。",
+   "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2156240.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ClaudeがGoogle Meetに参加　議事録や資料作成、質問回答も",
+   "summary": "Anthropicは12日(米国時間)、「Claude」がビデオ会議に参加し、議事録の作成や質問への回答、資料の共同編集などを行なう「Claude Meetings」のベータ版を提供開始した。ClaudeのTeamプランとEnterpris",
+   "link": "https://www.watch.impress.co.jp/docs/news/2156161.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、作業・実行のための主力モデル「Gemini 4 Hydrogen」",
+   "summary": "Googleは12日(米国時間)、スピーディに作業を担う主力AIモデル「Gemini 4 Hydrogen」を発表した。日常的なコーディングやエージェント型ワークフローに必要な速度と効率性を備えた最新の大規模言語モデル(LLM)となり、Go",
+   "link": "https://www.watch.impress.co.jp/docs/news/2156136.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
