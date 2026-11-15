@@ -1,0 +1,131 @@
+{
+ "date": "2026-11-16",
+ "groups": [
+  {
+   "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+   "summary": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
+   "summary": "東京都足立区は2025年にグーグル・クラウド・ジャパンと包括連携協定を結び、議会答弁や区民の声への対応でAIエージェントの実証実験を進めてきた。同社イベントに登壇した担当者が、その仕組みと運用のコツを紹介した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
+   "summary": "製造業でも多くの業務でAIが活用される中、注目を集めるフィジカルAIだが、製造業での使用状況はどうなっているのだろうか。フィジカルAIの現在地と共にAI時代の人の役割について、ガートナージャパン アナリストの鹿内健太郎氏に話を聞いた。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円",
+   "summary": "オートバックスセブンは2032年度の売上高5000億円を目指してGoogle WorkspaceとGeminiを導入した。従来の表計算ソフトからの移行とAI活用の全社展開を図る。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+   "summary": "無償で利用できるオープンソースのパラメトリック3D CAD「SolidCraft」を紹介する。Webブラウザとデスクトップアプリに対応し、後者では生成AIとの対話によるモデリングも可能だ。筆者が実際に操作して分かった基本機能の使い勝手や、A",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
+   "summary": "生成AIの導入により、1～2日かかっていたアプリの画面や試作品の制作が数十分へ短縮されたメルカリ。専門ごとの縦割りを解き、1～3人の少人数で画面から裏側の仕組みまで一気に作り上げる体制へ移行した。一方、200～300画面に及ぶアプリではAI",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
+   "summary": "動画撮影で意外と難しいのが、周囲の雑音を抑えながらクリアな音声を録音することです。Insta360のワイヤレスマイク「Insta360 Mic Pro」は好きな画像やロゴを表示できるカラーE-Inkディスプレイが送信機に搭載されているのが特",
+   "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
+   "summary": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261115-dayjob-tax/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+   "summary": "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オ",
+   "link": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Morse MicroとCamThinkが提携、カメラなどエッジAIデバイスをWi-Fi HaLow対応に",
+   "summary": "Morse Microは11月13日、AIネットワークカメラなどを手掛けるCamThinkと提携し、エッジAIデバイスに長距離・低消費電力のWi-Fi HaLow技術を導入すると発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156356.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ネットワークの仕事って何が面白い？ 教科書や技術書に載っていない話だからこそプロに聞いてみよう　「ネットワークインフラ寺子屋」でAI時代のキャリアを考える。11月25日に「Internet Week 2026」で開催",
+   "summary": "「10年後の自分を自己紹介してもらう、というのはどうでしょう？」  「でも、まだ将来のことがぼんやりしている人には、ちょっと難しいかも……」  「むしろ、そういう人たちが来るんじゃないかな。だからこそ参加してもらう意味があるのでは」  「だ",
+   "link": "https://internet.watch.impress.co.jp/docs/interview/2156540.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "またオマエ（MT7925）か…。高級PCでもWi-Fiで320MHz幅通信ができない問題を考える【イニシャルB】",
+   "summary": "PC Watchの特集記事「120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？でも紹介しているが、個人的にRTX Spark搭載機「ASUS ProArt P16（H7607BA）」を購入した。自宅のメイン",
+   "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2154830.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【西田宗千佳のイマトミライ】アドビがMCPに対応する理由 「絵を作る」AIから「ワークフロー」のAIに",
+   "summary": "今年もアドビの年次イベント「Adobe MAX 2026」の取材に行ってきた。基調講演のレポートはすでに掲載している。",
+   "link": "https://www.watch.impress.co.jp/docs/series/nishida/2156554.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPT Wallet、米国でスタート エージェント活用で買い物を代行",
+   "summary": "OpenAIは13日、ChatGPT上でエージェント向けの決済手段を提供可能とする「ChatGPT Wallet」を米国のChatGPT Pro(200ドル～)ユーザー向けに提供開始した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2156473.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
