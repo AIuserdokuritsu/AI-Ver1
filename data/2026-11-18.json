@@ -1,0 +1,275 @@
+{
+ "date": "2026-11-18",
+ "groups": [
+  {
+   "title": "AI時代に必要なエンジニアのスキルとは？　開発現場の“品質問題”から読み解く",
+   "summary": "ソフトウェア品質に関する調査から見えてきた、AI時代に必要なエンジニアのスキルを解説する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GAS×Geminiが一般提供開始　IT管理者が確認すべき権限設定は？",
+   "summary": "GASとGeminiの連携によってコーディング不要でスクリプト作成やデバッグが可能になった。コーディング知識がないユーザーでも自然言語の指示でスクリプトの作成や編集、エラー修正ができるようになる。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleドライブの最新ファイルをGeminiが常時参照　「スキル」に新機能追加",
+   "summary": "Geminiでカスタム指示を保存する「スキル」機能が拡張された。作成したスキルの他ユーザーへの共有や、Googleドライブなどのファイル追加が可能になり、常に最新データを参照してAIを動かせるようになる。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003259/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "MUFG、松尾豊教授ら設立のAIスタートアップと提携　「遍在型AGI」活用へ",
+   "summary": "三菱UFJフィナンシャル・グループ（以下、MUFG）と傘下の三菱UFJ銀行は、AI研究で知られる東京大学の松尾豊教授らが設立したAIスタートアップThird Intelligence（東京都千代田区）と、AIの社会実装を手掛ける松尾研究所（",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/17/2000003260/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+   "summary": "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platf",
+   "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "規制の厳しい業界でAIエージェントをどう導入する？　MicrosoftとIBMが発表した基盤「3つの特徴」",
+   "summary": "AIエージェントの実証から本番運用へ――。IBMとMicrosoftは、6000種類超の構築済みエージェントやアセットをそろえた業界特化型の基盤「Imagine Enterprise」でこの移行を支援する。一から構築せず、既存システムも置き",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開　ChatGPTで探すと24時間アカウント停止の警告も",
+   "summary": "OpenAIは、児童性的虐待コンテンツ（CSAM）を検出するための新たな画像分類ツールを発表した。従来は検出が困難だった新規画像やAI生成画像も対象とし、審査を通過した組織へAPI経由で無償提供する。同時にChatGPT上でのCSAM検索行",
+   "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "大手自動車メーカーの検図工数を90％削減　AIが図面の重要な変更点を判別",
+   "summary": "Liberty Dataは、生成AIを活用した図面関連業務の自動化サービス「Liberty図面AI」における新旧図面の差分抽出機能の導入事例を公開した。図面の内容や設計指示の意図を理解し、検図者が優先して確認すべき変更点を判別する機能で、大",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news014.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "クレディセゾンはなぜChatGPTでROI954％・年169時間削減を達成できたのか",
+   "summary": "クレディセゾンは、わずか1カ月の検証を経てChatGPT Enterpriseの全社一斉導入に踏み切った。経営層の巻き込みと現場の工夫を両立させた、同社の実践的な推進アプローチとは。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/17/2000003219/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIの本格運用に潜むトークン消費増とガバナンス負担　企業の約9割が再設計を迫られる実態",
+   "summary": "AIの業務導入が進む一方、本格展開のフェーズで運用体制の抜本的な見直しを迫られる企業が相次いでいる。トークン消費による想定外のコスト膨張や、各国・地域の法規制、データ主権への対応など、ITリーダーが直面する新たな制約とは何か。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/17/2000003223/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「回答するAI」から「現実の課題を解決するAI」へ、ダッソーが掲げる産業AI戦略",
+   "summary": "ダッソー・システムズは、年次カンファレンス「3DEXPERIENCE CONFERENCE JAPAN 2026」の開催に併せてプレスブリーフィングを実施した。同社 CEOのパスカル・ダロズ氏が、AIと科学、人間の専門性を融合させた産業AI",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news025.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」",
+   "summary": "AIモデルを自分のPCで動かす場合はモデルのデータをVRAMに読み込みますが、数千億パラメーター級の巨大なモデルを動かすのに必要なメモリは数百GB単位になるため自前環境で動かすことはほぼ不可能です。そこでVRAM・メインメモリ・SSDを組み",
+   "link": "https://gigazine.net/news/20261117-project-maya/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Fable 5.2を使って一発で指示通りのゲームを作成できた話",
+   "summary": "甥っ子から「ゲームを作って」と頼まれた機械学習エンジニアが、AIの「Claude Fable 5.2」に1回指示を出すだけでゲームを完成させたとする体験談を共有しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261117-claude-made-dream-game/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIの答えが正しくても人間が圧力をかけるとAIは簡単に意見を変えてしまう",
+   "summary": "AIが正確な気候変動に関する情報を提供しても、人間から圧力をかけられると容易に間違った情報を発信してしまうことが、国際連合教育科学文化機関(ユネスコ)とユニヴァーシティ・カレッジ・ロンドン(UCL)の共同調査により明らかになりました。続きを",
+   "link": "https://gigazine.net/news/20261117-ai-easy-pressure-false-information/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "5年前に自分で歌った曲がAI音楽企業の著作権侵害申し立てで削除される、異議申し立ても2回却下",
+   "summary": "約5年前に自分で録音した歌声をYouTubeに投稿していたミュージシャンが、AIを活用する音楽配信企業から著作権侵害を申し立てられて動画を削除される事態が発生しました。ミュージシャンは2回にわたって異議を申し立てたものの認められませんでした",
+   "link": "https://gigazine.net/news/20261117-musician-copyright-hell/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる",
+   "summary": "NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
+   "summary": "Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11",
+   "link": "https://gigazine.net/news/20261117-windows-coding-agent-telemetry/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴",
+   "summary": "2026年7月、OpenAIのAIエージェントがHugging Faceを誤ってハッキングしてしまう事件が発生しました。この件に関連し、「AIを適切に保護せず、消費者や市民を危険にさらした」として、カリフォルニア州司法長官がOpenAIを訴",
+   "link": "https://gigazine.net/news/20261117-california-doj-sue-openai/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始",
+   "summary": "OpenAIがAI生成画像を含む児童性的虐待コンテンツの検出を支援するツールを発表しました。新しいツールで監視団体を支援するとともに、ChatGPTに新しい警告機能を追加し、開発者向けガイダンスを公開することで、オンライン児童性的虐待との闘",
+   "link": "https://gigazine.net/news/20261117-openai-child-safety/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか",
+   "summary": "現地時間の2026年11月16日、AppleがmacOS 27.3 beta 2でアプリに許可されているデータアクセスの範囲をよりわかりやすく、細かく指定できるよう権限設定を見直したことを発表しました。これはAIエージェントがユーザーの意図",
+   "link": "https://gigazine.net/news/20261117-macos-control-data-access-full-disk/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能",
+   "summary": "NVIDIAが小型AIスーパーコンピューター「DGX Spark」を4台連係させてAIクラスターを形成できる「DGX Spark Developer Kit」を発表しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261117-dgx-spark-developer-kit/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "VAIO、法人向けノートPC「VAIO Pro BM」「VAIO Pro BK」の新モデル発表　Wi-Fi 7に対応し、「AI時代の定番」をうたう。新メーカー保証に対応",
+   "summary": "VAIO株式会社は11月17日、法人向けPCの16型ワイド液晶搭載「VAIO Pro BM」と、14型ワイド液晶搭載「VAIO Pro BK」の新モデルを発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2157075.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NTT、光量子コンピュータ向けのソフトウェア技術の研究開発推進を発表",
+   "summary": "NTT株式会社（NTT）は11月16日、光量子コンピュータ向けのソフトウェア技術の研究開発を推進すると発表した。第1弾として、量子回路を直接設計・記述することなくアプリケーションを開発できる機械学習アプリケーション向けSDKを開発し、光量子",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156767.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "若者はもう検索しない?　SNSとAIで変わる買い物のカタチ",
+   "summary": "新しい商品が欲しくなったとき、皆さんはどうやって探していますか。まずはネットで検索して、公式サイトやプロのレビューを読みつつ検討する人が多いのではないでしょうか。また、SNSでインフルエンサーが紹介していた商品を知り、購入した経験もあるかと",
+   "link": "https://www.watch.impress.co.jp/docs/topic/2155933.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "サムスン、約41gのGemini搭載スマートグラス　米韓で395ドルから",
+   "summary": "Samsungは、GoogleのAI「Gemini」を搭載したスマートグラス「インテリジェントアイウェア」を12月10日に米国と韓国で発売する。米国での価格は395ドル(約62,900円)。日本での発売については発表していない。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157226.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、最新サイバー防御AIモデルを日本政府に提供",
+   "summary": "Google Cloudは17日、日本政府とサイバーセキュリティ強化などで協力すると発表した。国家サイバー統括室(NCO)などの行政機関、金融機関、重要インフラ事業者に対し、サイバーセキュリティ能力を強化した最新のフロンティアAIモデル「G",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157194.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SwitchBot、10周年で新製品を一斉発表　AIペットから睡眠家電まで",
+   "summary": "SwitchBotは17日、ブランド10周年を記念した新製品発表会を開催し、手のひらサイズのAIペット「KATAフレンズ mini」やスマートリモコン「ハブ4」、お掃除ロボット「S30」などを発表した。ハブ4やS30などは18日から販売を順",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157178.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Gemini Notebook、資料から操作できるWebサイトを自動生成",
+   "summary": "グーグルは16日(米国時間)、AIツール「Gemini Notebook」に、メモや調査資料などからインタラクティブなWebサイトを生成する機能を追加した。18歳以上のユーザーを対象に、Web版で世界的に順次提供を開始する。また、Googl",
+   "link": "https://www.watch.impress.co.jp/docs/news/2156983.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "音声AIの「ElevenLabs」が日本の音声AI「Kotoba」を買収",
+   "summary": "音声AIのElevenLabs(イレブンラボ)は17日、日本の音声AIスタートアップKotoba Technologiesの買収を発表した。ElevenLabsにとって日本で初の買収となり、Kotobaの従業員15名がElevenLabsに",
+   "link": "https://www.watch.impress.co.jp/docs/news/2156921.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、人間が介入しないAIによる脆弱性攻撃を確認　攻撃はより高速に",
+   "summary": "Google Cloudは16日、サイバーセキュリティの調査チーム「Google Threat Intelligence Group：Google脅威インテリジェンス(GTIG)」による最新の調査結果を発表した。攻撃者がAIエージェントを使",
+   "link": "https://www.watch.impress.co.jp/docs/news/2156870.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
