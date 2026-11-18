@@ -1,0 +1,334 @@
+{
+ "date": "2026-11-19",
+ "groups": [
+  {
+   "title": "ついに“AIっぽさ”を脱却か？　OpenAIが新モデルGPT-6.2 AstraとSolを発表",
+   "summary": "OpenAIの新AIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」が登場した。法務や財務などの高度な専門業務を担うAstraと、日々の業務を支えるSolは、従来のコスト常識を覆す高い効率性を備える。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003295/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 2,
+   "others": [
+    {
+     "source": "Impress Watch",
+     "link": "https://www.watch.impress.co.jp/docs/news/2157303.html"
+    }
+   ]
+  },
+  {
+   "title": "ソブリンAI実現に向けて再び立ちはだかる「旧来の課題」　データ・インフラ・モデルの自由度をどう保つか",
+   "summary": "企業のAI導入における課題の多くは、モデルそのものではなく、AIが機能する環境に起因している。根にあるのは、AIブーム以前から企業のITシステムが抱えてきたデータの「サイロ化」と、特定の環境や技術への「ロックイン」だ。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000002979/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日本の音声AIスタートアップに159億円　ElevenLabsはなぜ、社員15人のKotobaを買収するのか",
+   "summary": "AI音声サービスを手掛ける米ElevenLabsは、音声AIスタートアップの米Kotoba Technologiesを買収すると発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003306/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「e-F@ctory」から次の進化へ、三菱電機が描くAI主体の自律型工場",
+   "summary": "三菱電機は、FA向けの新たな統合ソリューションブランドとして「Serendie Automation」を展開することを発表した。本稿では、前編で三菱電機 上席執行役員 FAシステム事業本部長の都築貴之氏の講演とインタビューの内容を紹介し、後",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news045.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "コマツ油機開発センタが挑む設計プロセス改革、ナレッジ検索／整備に生成AI活用",
+   "summary": "コマツの油機開発センタは、ベテラン設計者の技術やノウハウを組織の資産として活用する「ナレッジデータ」の構築を進めている。2022年から実務運用を開始し、現在は約7500件のナレッジを蓄積。さらに、生成AIを活用して検索性の向上やデータ整備の",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news001.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "まいばすけっとは「月2万件対応の社内窓口」の新人教育にAIをどう使った？",
+   "summary": "まいばすけっとは月間約2万件の問い合わせが寄せられる社内コールセンターの新人教育にAIを導入して指導時間を削減した。多忙な現場で、どのように教育の標準化と効率化を両立させたのか。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003301/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIの精度が低くて使えない――JA共済連がたどり着いた「AIエージェントの育て方」",
+   "summary": "社内のガイドラインや過去の履歴データをAIに読み込ませたものの、前後の文脈を無視して誤った回答を出してしまう――。業務特化型のAIエージェント構築で多くの企業が解決に苦慮するこの課題に、JA共済連はデータの「渡し方」と「考えさせる手順」を工",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003297/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Geminiの進化で浮上する課題　自律型AIから機密を守るGoogle新機能が登場",
+   "summary": "仕事と日常の双方でAIが自律的に作業を代行する動きが広がる中、機密データへの過剰アクセスや漏えいへの懸念が高まっている。Googleが11月17日に発表した2つのGemini関連アップデートから、自動化の現在地と機密保護の具体策を整理する。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003290/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "米ロックウェルが構想する人間中心の「自律化」、次世代製造業を導くAI戦略",
+   "summary": "米国Rockwell Automation（ロックウェル・オートメーション）の年次イベント「Automation Fair 2026」の2日目の基調講演に、Rockwell Automation 会長兼CEOのブレイク・モレット氏ら同社の経",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news026.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「オントロジー」とは結局何なのか　Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
+   "summary": "AIの書いたSQLがエラーなく動いても、「売上」の定義を取り違えれば、欲しい数字は得られない。こうした業務上の意味を共有する仕組みとして注目されるのが「オントロジー」だ。何を定義し、どこまで実行するのか。従来の考え方と各社の製品を比べ、開発",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NotionのAIチャット流出おそれ、幹部が日本での対応状況明かす　「心よりおわび」",
+   "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした可能性がある事案を巡り、Notionを運営する米Notion Labsのデイビッド・ツァオCISOが、日本での対応状況をITmedia AI＋",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003299/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
+   "summary": "ChatGPTがユーザーに向けて、自社をどのように紹介しているのかを把握したいと考える企業は多いだろう。OpenAIは、その把握に役立つ機能を企業向けにβ版で公開した。米国の対象企業であれば、自社のAIエージェントをChatGPT広告のリン",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大",
+   "summary": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」を発表。Astraは一部の性能評価で、前世代を上回るスコアを3分の1以下のコストで実現したとうたう。第三者機関の総合指標ではClaude Fable 5.2次ぐ2位。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
+   "summary": "日立製作所は、AIによる業務が人間の承認に基づくことを証明する技術「PoHD」を開発。生体認証を応用し、署名用の秘密鍵を保存せず生体情報から都度復元する。先進技術紹介のイベント「Hitachi R&D Innovation Day 2026",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI時代に必要なエンジニアのスキルとは？　開発現場の“品質問題”から読み解く",
+   "summary": "ソフトウェア品質に関する調査から見えてきた、AI時代に必要なエンジニアのスキルを解説する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GAS×Geminiが一般提供開始　IT管理者が確認すべき権限設定は？",
+   "summary": "GASとGeminiの連携によってコーディング不要でスクリプト作成やデバッグが可能になった。コーディング知識がないユーザーでも自然言語の指示でスクリプトの作成や編集、エラー修正ができるようになる。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleドライブの最新ファイルをGeminiが常時参照　「スキル」に新機能追加",
+   "summary": "Geminiでカスタム指示を保存する「スキル」機能が拡張された。作成したスキルの他ユーザーへの共有や、Googleドライブなどのファイル追加が可能になり、常に最新データを参照してAIを動かせるようになる。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003259/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIコーディングエージェントの登場でコード作成量が30％増もコードレビュー時間は49％長くなりボトルネックが移り変わったことをハーバード大学の研究者が発見",
+   "summary": "ハーバード大学の研究者がAIコーディングエージェントを導入した企業を対象とした調査を実施したところ、AIコーディングエージェントの活用でコードの作成量は約30％増加したものの、コードのレビューにかかる時間が49％増加したため、完成した作業量",
+   "link": "https://gigazine.net/news/20261119-ai-coding-agents-shifted-bottleneck-code-review/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？",
+   "summary": "AnthropicはAIモデル「Claude Mythos Preview」を使用して主要なOSやウェブブラウザーなどで深刻度の高い脆弱(ぜいじゃく)性を数千件見つけたと2026年4月に発表しました。そこから約7カ月が経過した11月9日に、",
+   "link": "https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
+   "summary": "前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。続きを",
+   "link": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」",
+   "summary": "1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Int",
+   "link": "https://gigazine.net/news/20261118-xestrata/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法",
+   "summary": "AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組",
+   "link": "https://gigazine.net/news/20261118-claude-code-test-code-review/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？",
+   "summary": "Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向",
+   "link": "https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Microsoftが新型AIプログラミングモデル「MAI Code 2」と高速版「MAI Code 2 Flash」を発表、GPT-6.1 Solに匹敵する性能を40％のコストで発揮",
+   "summary": "Microsoftが2026年11月17日にプログラミング向けAIモデル「MAI Code 2」と「MAI Code 2 Flash」を発表しました。MAI Code 2はOpenAIの「GPT-6.1 Sol」に匹敵する性能を低コストで発",
+   "link": "https://gigazine.net/news/20261118-mai-code-2-flash/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
+   "summary": "OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処",
+   "link": "https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功",
+   "summary": "セキュリティ研究企業のCalifが2026年11月17日、Javaのオープンソース実装であるOpenJDKに重大な脆弱(ぜいじゃく)性「Java4Shell(CVE-2026-114938)」が存在すると発表しました。Java4Shellを",
+   "link": "https://gigazine.net/news/20261118-java4shell/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAのコレット・クレス暫定CEOが中国向けのH200販売終了を発表",
+   "summary": "ジェンスン・フアン氏のCEO辞任後、初となる決算説明会で、コレット・クレス暫定CEOがAI用途やHPC用途向けのGPU・H200の中国向け販売を終了することを明らかにしました。続きを読む...",
+   "link": "https://gigazine.net/news/20261118-nvidia-ends-to-sell-chip-to-china/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "メモリ不足でAppleがSamsungと異例の4年間にわたるDRAM長期供給契約を締結へ、メモリメーカー優位の市場に",
+   "summary": "AIデータセンターの建設ラッシュに伴って世界的なメモリ不足が深刻化する中、AppleがSamsungと4年間にわたるDRAMの長期供給契約を締結する見通しだと、韓国の経済紙・毎日経済が報じました。部品メーカーに対して強い価格交渉力を持つこと",
+   "link": "https://gigazine.net/news/20261118-apple-samsung-dram/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "韓国が大学入試のAIカンニング対策を大幅強化、メガネの全数検査や衣服のボタンの封印を実施し受験資格停止期間を10年に延長へ",
+   "summary": "韓国政府が2026年11月17日、大学入試におけるAIや小型電子機器を悪用したカンニングへの対策を発表しました。受験生が着用するメガネの全数検査や衣服のボタンをシールで覆うといった対策を実施するほか、不正行為をした受験生の受験資格停止期間を",
+   "link": "https://gigazine.net/news/20261118-korean-anti-ai-cheating/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI導入に向けた企業のデータ基盤・データ保護の要所は？　Synologyが事業戦略を説明　DSM20周年、世界で1400万台が400EBのデータを保護",
+   "summary": "Synology Japan株式会社（Synology）は、11月11日にメディアカンファレンスを実施し、企業のAI導入・事業成長に向けた課題と同社のソリューションについて説明した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2156476.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "VAIO、法人向けノートPC「VAIO Pro BM」「VAIO Pro BK」の新モデル発表　Wi-Fi 7に対応し、「AI時代の定番」をうたう。新メーカー保証に対応",
+   "summary": "VAIO株式会社は11月17日、法人向けPCの16型ワイド液晶搭載「VAIO Pro BM」と、14型ワイド液晶搭載「VAIO Pro BK」の新モデルを発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2157075.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPTで毎月もらえる100ドル分以上のAPIクレジットを使い切ろう!",
+   "summary": "2026年10月末から、ChatGPTでは契約プランに応じて毎月「APIクレジット」が付与されるようになりました。個人向けのPro 100ドルプランで毎月100ドル分、同200ドルプランで200ドル分、同500ドルプランで500ドル分がもら",
+   "link": "https://www.watch.impress.co.jp/docs/topic/2155622.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Copilotを「仕事の新しいOS」に　MicrosoftがAI・セキュリティ強化",
+   "summary": "Microsoftは17日(米国時間)、開発者向けイベント「Microsoft Ignite 2026」において、「Copilot」の機能拡充やWindowsのセキュリティ強化、AIエージェント向けの新たな実行環境などを発表した。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157470.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "楽天トラベル、AIとの対話でレンタカー予約　用途に合わせて提案",
+   "summary": "楽天グループは17日、旅行予約サービス「楽天トラベル」のAIエージェント「Rakuten AI」に、レンタカーの検索・予約機能を追加した。楽天トラベルのスマートフォンアプリとWebページから、誰でも無料で利用できる。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157462.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "note、AI学習に続き「AI参照」でも収益還元",
+   "summary": "noteは18日、大手AI事業者からAIによるコンテンツ参照の対価を受け取り、クリエイターに還元すると発表した。AIがユーザーの質問に回答する際に、noteの記事を参照した実績などに応じて対価を分配する。支払いは12月中旬を予定している。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157450.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Gemini、タスクの依頼・遂行が可能に　電話や買い物代行も",
+   "summary": "Googleは17日(米国時間)、Geminiをアップデートし、電話をかける、請求書の支払い操作をするといったタスクの遂行機能の提供を開始した。機能の利用は無料、日本でも利用できる。12日に発表した主力AIモデル「Gemini 4 Hydr",
+   "link": "https://www.watch.impress.co.jp/docs/news/2157422.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
