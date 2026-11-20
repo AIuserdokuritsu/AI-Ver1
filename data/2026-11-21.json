@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-21",
+ "groups": [
+  {
+   "title": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
+   "summary": "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
+   "summary": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Muse」専用メアド、無料で作成可能に　AIが送受信を代理",
+   "summary": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+   "summary": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+   "summary": "日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる。CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
+   "summary": "米Autodeskは、自動車デザイナー向けソリューション「Autodesk NavPack」にNVIDIAの技術を統合する計画を発表した。対応するAIモデルアーキテクチャの拡張や、ワークフローの一部をGPUで高速化することを目指す。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁　「Business Standard」全ユーザーにも",
+   "summary": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す　東京ガス系が実践したノウハウ継承術",
+   "summary": "熟練者が退職した後も、プロジェクト管理の経験や判断基準を組織に残すにはどうすればよいのか。東京ガスｉネットが実践した、暗黙知を組織の資産に変える実践手法と、具体的なシステム構成を整理する。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news021.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ヒューマノイドからAIビジョンまで、三菱電機「Serendie Automation」の具体像",
+   "summary": "三菱電機は、FA向けの新たな統合ソリューションブランドとして「Serendie Automation」を展開することを発表した。後編では「Serendie Automation」を体現する技術展示の内容を紹介する。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news045.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
+   "summary": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「名ばかりFDE」を見抜けるか？　依頼検討時に確認したい10項目",
+   "summary": "FDEを名乗るAI導入支援サービスは、名称通りエンジニアが現場で開発するのか。AI導入支援を手掛けるゴムマリは、契約の指針などを基に依頼前に確かめたい10項目を整理し、国内40社の公式サイトでの記載状況を調べた。IT部門は見積もり時に何を確",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/20/news028.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「おもてなし以外」はAIで――多忙化する美容部員、資生堂はGeminiでどう変えたか",
+   "summary": "資生堂ジャパンの担当者がグーグル・クラウド・ジャパン開催のイベントに登壇。AIで美容部員（PBP）を支える取り組みと今後の構想を語った。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003336/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ　AI推進で経営陣を動かした「定量の匂い」とは？",
+   "summary": "伊藤忠商事の“繊維部門”が、AI活用を加速させている。現場の熱意を広げ、経営層に「定量の匂い」を感じさせるなど独自の取り組みを推進。月数千件の「二重業務」解消へ挑んでいる。AI活用の裏側に迫る。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/20/news042.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "SlackやTeamsで情シス問い合わせを自動化　Salesforceの新AI「Paige」とは",
+   "summary": "セールスフォース・ジャパンは、実務対応済みのAIエージェント「Piper」「Fin」「Paige」の国内提供を開始すると発表した。一からの構築は不要で、PaigeはSlackやTeamsでの社内問い合わせ対応を自動化する。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003331/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI需要で「シェア0→50％」急成長　半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
+   "summary": "「AI半導体といえばNVIDIA」という状況が変わるかもしれない。CPU開発を手掛ける英アームが存在感を高めている。AI需要をどう取り込もうというのか。同社の戦略を、Arm日本法人の横山崇幸社長が語った。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "さよなら「Claude Code」　人気AIに愛想を尽かしたエンジニアの意外な移行先：906th Lap",
+   "summary": "多くのエンジニアに支持されるコーディングAI「Claude Code」。長年愛用してきたエンジニアが、ある日、あえて無名のコーディングAIへの乗り換えを決めた。使い慣れた人気ツールに別れを告げるほどの問題とは何だったのか。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003337/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+   "summary": "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました。続きを読む...",
+   "link": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される",
+   "summary": "RTX SparkはNVIDIAが開発したSoCで、RTX Sparkを搭載したノートPCやミニPCは大規模言語モデルやコンテンツ生成モデルをローカルで実行することができます。そんなRTX Spark搭載ノートPCで画像生成AIや動画生成A",
+   "link": "https://gigazine.net/news/20261120-rtx-spark-image-video-generation/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
+   "summary": "大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示し",
+   "link": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
+   "summary": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。続きを読む...",
+   "link": "https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に",
+   "summary": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年11月18日にMicrosoftとの提携を発表し、企業向け製品「Hermes Enterprise」を公開しました。Hermes E",
+   "link": "https://gigazine.net/news/20261120-nous-research-microsoft-hermes-enterprise/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Ubisoftが「記憶を持ったNPC」や「AIゲームマスター」を開発する生成AIゲームスタジオ「Motherbrain」を設立",
+   "summary": "アサシンクリードシリーズやレインボーシックスシリーズで知られるフランスに本社を置くゲーム会社・Ubisoftが、生成AIの実装に特化したゲームスタジオ「Motherbrain」を設立しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261120-ubisoft-generative-ai-game-studio-motherbrain/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される",
+   "summary": "IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261120-siri-recap-hands-on/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表",
+   "summary": "EUの行政執行機関である欧州委員会(EC)が、AIツールを使用したサイバー攻撃の標的になったことを、2026年11月19日に認めました。ECの報道官は「調査は進行中で、事件の規模を判断するのは難しい」と会見で述べています。続きを読む...",
+   "link": "https://gigazine.net/news/20261120-eu-commission-cyberattack/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
+   "summary": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。M",
+   "link": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Appleは独自のAIエージェントを開発するためにエンジニアを募集している",
+   "summary": "Appleは「ウェブの閲覧」「複数のアプリをまたぐ作業」「コードの作成」「外部サービスの呼び出し」などをユーザーに代わって行うことができる独自のAIエージェントを開発するため、エンジニアを募集していることがBloombergが確認したApp",
+   "link": "https://gigazine.net/news/20261120-apple-hiring-engineers-build-ai-agent/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの",
+   "summary": "2023年11月に起きたOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」の宣伝用ポスターが、まるでAI生成画像のようだと話題になっています。しかし、このAI生成画像風のポスターは人間のアーティストが手描きで作成",
+   "link": "https://gigazine.net/news/20261120-artificial-unsettling-ai-poster-made-human/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
+   "summary": "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。続",
+   "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Blue Originが2029年にGoogleのAIサーバー衛星を大型ロケット「New Glenn」で打ち上げへ",
+   "summary": "Googleは2026年11月19日、宇宙空間にAIデータセンターを構築する研究プロジェクト「Project Suncatcher」で、宇宙開発企業のBlue Originと提携したと発表しました。2029年第1四半期にBlue Origi",
+   "link": "https://gigazine.net/news/20261120-blue-origin-launch-google-ai-server/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
+   "summary": "プログラミングの専門知識がなくてもAIでウェブアプリを作れるサービス「Lovable」で開発された一部のアプリで、パスポート情報や20万件超のプライベートなメッセージを非ログイン状態で閲覧できたとドイツのセキュリティ企業であるCrissy ",
+   "link": "https://gigazine.net/news/20261120-lovable-apps-data-exposure/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "TikTok、画像・動画のAI生成チェック機能を公開 肖像検出も",
+   "summary": "TikTokは20日、AI生成コンテンツの透明性と管理を高める2つの新機能を発表した。画像や動画がTikTokのAI作成機能で生成・編集されたものかを確認できる「透明性確認」機能を導入したほか、本人の同意なく肖像が使用された可能性のあるAI",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158347.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アンソロピック上場、時価総額1.27兆ドル 「AIによるリスクは避けられる」",
+   "summary": "Anthropicは19日(米国時間)、米国NASDAQ市場に上場した。ティッカーシンボル(銘柄コード)は「ANT」。終値は97.17ドルと公開価格の83ドルを上回り、時価総額は1.27兆ドルとなった。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158232.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Gemini API、必要なツールのみを取得可能に　トークン消費を削減",
+   "summary": "Googleは19日(米国時間)、Gemini APIのInteractions APIで、AIエージェントが必要なツールのみを取得する新機能「Tool Retrieval」のプレビュー提供を開始した。入力トークン数の削減とツール選択精度の",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158217.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Mac版Geminiに「Computer use」　PC作業をAIが代行",
+   "summary": "Googleは19日(米国時間)、Mac版Geminiアプリに、AIがPCを操作して作業を自動実行する「Computer use」機能を追加した。米国で提供を順次開始し、日本での提供は未定。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158164.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、「宇宙でAI」大型打ち上げでブルーオリジンと提携",
+   "summary": "Googleは、地球の軌道上で太陽光発電とAIインフラの拡張を行なう計画「プロジェクト・サンキャッチャー」の最初の大型打ち上げについて、Blue Origin(ブルーオリジン)と提携したと発表した。2029年第1四半期を目標に、ブルーオリジ",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158139.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
