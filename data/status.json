@@ -2,12 +2,12 @@
  {
   "name": "ITmedia AI+",
   "ok": true,
-  "items": 16
+  "items": 3
  },
  {
   "name": "GIGAZINE",
   "ok": true,
-  "items": 14
+  "items": 3
  },
  {
   "name": "INTERNET Watch",
@@ -17,6 +17,6 @@
  {
   "name": "Impress Watch",
   "ok": true,
-  "items": 5
+  "items": 2
  }
 ]
