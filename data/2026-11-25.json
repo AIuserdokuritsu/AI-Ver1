@@ -1,0 +1,374 @@
+{
+ "date": "2026-11-25",
+ "groups": [
+  {
+   "title": "AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表",
+   "summary": "Anthropicは、AIエージェントが脆弱なサンドボックスから抜け出すかどうかを測る評価手法「Siren」を発表した。1700以上のシナリオで6モデルを検証し、最新モデル群が外に置かれた認証情報などを不正に使った割合は0.6?1.6％にと",
+   "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "現役組み込みエンジニアが考える「GitHub Copilot」の使いどころと検証の実際",
+   "summary": "現役組み込みエンジニアである筆者が、AIを業務で使って見えた期待と限界の全体像を論じた前回記事に続き、今回はその続編としてもう一歩踏み込み、代表的なAIコーディングエージェントとして知られている「GitHub Copilot」の活用法を取り",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news009.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「ソフトウェアファクトリー」とは結局何か　OpenAIもUberもfreeeも始めたAIエージェントの「工場」の中身",
+   "summary": "AIコーディングエージェントを個別に使う段階から、工程全体を「工場」として組む段階へ。OpenAI、Uber、freeeなどの取り組みを手掛かりに、この言葉が指す仕組みと、人間に残る仕事を整理する。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/25/news002.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「GetBackers」AI利用の告知映像で謝罪　「作者への説明と確認が十分でなかった」　ボイスコミック制作巡り",
+   "summary": "マンガ「GetBackers -奪還屋-」のボイスコミック公式X（@reclaim_00）は、11月18日に投稿した告知映像について、誤解や混乱を招いたとして謝罪した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003424/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アンソロピックはなぜ、OpenAIを差し置いて「史上最大IPO」できたのか　“事業展開のうまさ“を識者が語る",
+   "summary": "Anthropicが上場して「史上最大のIPO」を成し遂げた。「AIによる人類滅亡リスク」を警告していた同社。ビジネス面の強みはどこにあるのか、識者に聞いた。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "明治が市乳製造にAI計画立案を導入、稼働直数を最大約17％削減へ",
+   "summary": "ALGO ARTISは、明治の愛知工場における市乳製品の製造工程に計画DXソリューション「OPTIUM」を試験導入した。AIによる稼働計画の自動立案により、一部工程で最大約17％の稼働直数削減を確認した。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news059.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える",
+   "summary": "AI時代の業務システムは、どのような姿になるのか。人とAIが役割を分担して働く時代に業務システムの中枢を担うのは何か。サイボウズ「kintone」の進化を見ながら考察する。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "DeNA、「AI社員」を外販　使い過ぎを“残業時間”で管理",
+   "summary": "DeNAは、AIエージェントを企業の一員として配属・育成できるとうたうサービス「AI社員 by DeNA」の提供を決定したと発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+   "summary": "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Stewar",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "国内で採れないAI人材、インドで確保　“日本に呼ばない”開発ラボをZenkenが始めた理由",
+   "summary": "生成AIの普及で、企業が求めるエンジニア像は変わった。国内で採れない人材をどう確保するか。Zenkenは、インドのベテランエンジニアが現地に住んだまま開発に加わるサービスを始めた。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ジェンスン・フアン氏、NVIDIAのCEOに復帰　マスク氏「誤りは正された」　AI企業代表のコメントまとめ",
+   "summary": "NVIDIAは、中国のスパイと疑われている女性を含む複数人との不倫行為が取り沙汰されたことを受けCEOを辞任したジェンスン・フアン氏が同職に復帰したと発表した。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003402/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
+   "summary": "パナソニックHDは、技術未来ビジョンの進捗状況や、フィジカルAI（人工知能）への取り組み方針を説明した。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？　Gartner予測",
+   "summary": "AIの利用を拡大するIT部門の4割が、2028年までに事業に不可欠なサービスの中断に見舞われる――。Gartnerがこのような予測を発表した。中断に見舞われるIT部門の共通点とは。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "眠る「200兆円市場」、フィジカルAIを阻む「資源不足」　日立は独自技術で突破口探る",
+   "summary": "日立製作所は、社会インフラ向けフィジカルAIの潜在市場が2030年に約1.3兆ドル（約200兆円）規模になると予想する。ただし、電力や人手などリソースの制約が成長を阻むという。独自技術「IWIM」でどう乗り越えるのか。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003382/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保",
+   "summary": "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AI",
+   "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "住友生命がChatGPT導入で524％のROI達成　金融の厳格な基準をどう突破した？",
+   "summary": "住友生命は「ChatGPT Enterprise」の導入によって、ヘビーユーザー層の平均推定ROI524％を実現した。AI利用を組織の成果につなげるための実践的なポイントを解説する。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/24/2000003335/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ロックウェルがAIで狙う工程革新　各エージェントを“指揮”する新製品とは",
+   "summary": "製造業が人手不足や国際競争に直面する中、ロックウェル オートメーションは「自動化から自律化へ」の変革を提唱する。LLMの進化やフィジカルAIの台頭を背景に、設備全体が自ら学習・最適化する次世代生産システムの姿とはどのようなものか。同社主催の",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news024.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど",
+   "summary": "AIにコードを書いてもらったり面倒な仕事をAIエージェントに任せたりと、生成AIを活用することで効率的に仕事を進められるようになってきました。しかし、うまくAIに働いてもらうにはAIに適切な指示を出したりAIが生成したプログラムを動かすイン",
+   "link": "https://gigazine.net/news/20261124-udemy/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIデータセンターは化石燃料に依存しており2028年にはAnthropicがアメリカで使う電力の87％がガスで11％が石炭から供給される見込み",
+   "summary": "AIを使用したツールやソフトウェアが世界的に普及する中で、AIを動かすためのデータセンター建設が世界各地で進んでいます。ところが、AIデータセンターで消費される電力はガスや石炭といった化石燃料に強く依存していると、データセンターと環境につい",
+   "link": "https://gigazine.net/news/20261125-anthropic-ai-data-centers-fossil-fuels/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Cursorが中国製AIモデルの段階的廃止を検討中との報道",
+   "summary": "コーディングエージェント「Cursor」の開発企業であるAnysphereは、中国製AIモデルをベースとするコーディングモデルなども開発していました。新たにAnysphereが中国製AIモデルの段階的廃止を検討中であることが判明しました。続",
+   "link": "https://gigazine.net/news/20261125-cursor-ai-china/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得",
+   "summary": "Amazonは日本時間の2026年11月23日、イスラエルのAIスタートアップ「Decart」が開発したAI処理の最適化技術「Decart Optimization Stack(DOS)」を買収する契約を締結したと発表しました。Decart",
+   "link": "https://gigazine.net/news/20261124-amazon-acquire-decart/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI開発は人間レベルの汎用人工知能「AGI」を超え人間の専門家集団を凌駕する汎用人工超知能「ASI」へと向かうとGoogle DeepMindの研究者が主張",
+   "summary": "Googleの研究開発機関であるGoogle DeepMindが、AI開発が進めば人間レベルの知能を持ち合わせた「汎用人工知能(AGI)」や、人間の専門家集団を凌駕する「汎用人工超知能(ASI)」へ到達するとして、その道のりに待ち受ける課題",
+   "link": "https://gigazine.net/news/20261124-what-comes-after-agi/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「超知能の到来が迫っている」とMetaのAI責任者が警告、AIによるリーマン予想の証明で人類がAIを制御できなくなる未来に現実味",
+   "summary": "Metaの最高AI責任者であるアレクサンダー・ワン氏が2026年11月23日に「超知能の到来が迫っている」と題した文章を公開しました。ワン氏は数学の難問である「リーマン予想」がAIの力を借りて証明されたことについて、AIがAI研究を含むほぼ",
+   "link": "https://gigazine.net/news/20261124-superintelligence-is-arriving/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る",
+   "summary": "2026年11月20日にAnthropicの研究者であるレベント・アルポゲ氏が、AIモデルのClaudeとともに一般化リーマン予想を証明したと発表しました。数学を解説するYouTubeチャンネルの3Blue1Brownが、この発表以前から約",
+   "link": "https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Googleが「ユーザー自身が主人公の番組」をAIで生成し続ける専用テレビチャンネルの特許を出願",
+   "summary": "Googleがユーザーの動画視聴履歴や年齢層、位置情報などを基にAIでオリジナルの番組を生成し、ユーザー専用のテレビチャンネルで配信する技術の特許を出願していたことが明らかになりました。特許文書にはユーザー自身の姿や声を再現し、番組の主人公",
+   "link": "https://gigazine.net/news/20261124-google-ai-tv-channel/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIがプルリクエストのレビューや修正を行い自動承認までしてくれる「Claude Ship」が登場",
+   "summary": "AI企業のAnthropicが日本時間の2026年11月24日に、プルリクエストのレビューや問題の修正、承認をAIに任せられる「Claude Ship」のベータ版を発表しました。開発チームがあらかじめ定めたルールに従ってAIが変更内容を承認",
+   "link": "https://gigazine.net/news/20261124-claude-ship/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIがAIの進化を測る内部指標「パープレキシティ」を公開、2027年の技術革新ラッシュを見据え開発制限を提唱",
+   "summary": "OpenAIが、AIモデルがデータをどれだけ正確に予測できるかを示す指標「パープレキシティ」の内部測定結果を2026年11月22日付けで公開しました。OpenAIのチーフサイエンティストを務めるヤクブ・パチョッキ氏は「2027年にもAIの事",
+   "link": "https://gigazine.net/news/20261124-openai-perplexity/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleがAIの性能測定ツール「gBench」をオープンソース化",
+   "summary": "GoogleがAIモデルの性能を測定するためのベンチマークフレームワーク「gBench」をオープンソース化しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "トランプ大統領がジェンスン・フアンのCEO復帰について「私が説得した」と発言、フアンがブラジャーを掲げるAI画像を投稿し復帰を歓迎",
+   "summary": "2026年11月23日夜、不倫問題で辞任していたNVIDIAのジェンスン・フアン氏がCEOに再任されました。この件で、ドナルド・トランプ大統領が横やりを入れていたことが明らかになりました。続きを読む...",
+   "link": "https://gigazine.net/news/20261124-jensen-huang-nvidia-return-trump-behest/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場",
+   "summary": "アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。続きを読む...",
+   "link": "https://gigazine.net/news/20261124-inkling-2-mini/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表",
+   "summary": "OpenAIがネットワーク機器大手のCiscoと共同で、Linuxシステムを稼働させたままサイバー攻撃から保護できるオープンソースのソフトウェア「Shirudo」を発表しました。Shirudoを使うことで、脆弱(ぜいじゃく)性が発見されてか",
+   "link": "https://gigazine.net/news/20261124-openai-shirudo/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIモデル「GLM-5.4」が登場、各層を2回ずつ実行する「Loop Transformer」で性能を底上げし近日中にオープンウェイトモデルとして公開予定",
+   "summary": "中国に拠点を置くAI企業のZ.aiが「GLM-5.4」を発表しました。「Loop Transformer」と呼ばれるアーキテクチャーによって性能を向上させているのが大きな特徴で、近日中にオープンウェイトモデルとして公開される予定です。続きを",
+   "link": "https://gigazine.net/news/20261124-glm-5-4/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "複数のPCにローカルAIの処理を割り振れるNVIDIA製ツール「Personal AI Router(PAIR)」の有用性検証結果が公開される",
+   "summary": "LAN内のデバイスにAI処理を割り振れるNVIDIA製ツール「NVIDIA Personal AI Router(PAIR)」について、テクノロジーメディアのLTT Labsがレビューを行い、使用感や課題について考察しています。続きを読む.",
+   "link": "https://gigazine.net/news/20261124-nvidia-pair/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "キヤノンITソリューションズ、「マネージドSOCサービス」を機能強化。対象の拡張、AI相関分析、初動自動化",
+   "summary": "キヤノンITソリューションズ株式会社は11月24日、企業向けのセキュリティ運用支援サービス「マネージドSOCサービス」の監視対象を拡充した。AIを活用した相関分析や初動対応の自動化、SOCアナリストによる分析・対処支援を強化する。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2158862.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Fastly、日本で定額WAFパッケージを提供。中小企業のセキュリティ支援へ",
+   "summary": "クラウドエッジプラットフォームを提供するファストリ―株式会社（Fastly）は11月19日、記者説明会を実施し、エッジプラットフォームのAIサービスへの拡大と、日本における中小企業向けセキュリティパッケージの提供を発表した。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2158383.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Infoblox、2027年の脅威として「AIによる大規模なブランドなりすまし」 などを予測",
+   "summary": "Infobloxの脅威インテリジェンスチーム「Infoblox Threat Intel」は11月17日、2027年のサイバー脅威予測に関する記者説明会を行った。",
+   "link": "https://internet.watch.impress.co.jp/docs/news/2158274.html",
+   "source": "INTERNET Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！　さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]",
+   "summary": "「OpenCode」や「OpenClaw」などの話題のAIエージェントを試してみたいが、手元に動かす環境がない……。自分のPCにインストールするのは避けたいが、かといって専用PCを買う予算もない。そんなときに便利なのがVPS（仮想専用サーバ",
+   "link": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエンジニア「Devin」がチームに　複数AIでソフト開発する「Devin Bots」",
+   "summary": "Cognitionは17日(米国時間)、複数のAIソフトウェアエンジニア「Devin」を並列に動かし、ソフトウェア開発を自律的に進める「Devin Bots」を提供開始した。ユーザーが開発目標を伝えると、Devin Botsがタスクの分解か",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158714.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発",
+   "summary": "OpenAIとCiscoは23日(米国時間)、セキュリティパッチを展開する間もLinuxシステムを保護できるオープンソースのランタイム「Shirudo」を発表した。GitHubでソースコードを公開している。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158698.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "グーグル、AIモードとウォレット・ドライブの連携を拡大　支出や文書を踏まえ回答",
+   "summary": "Googleは、Google 検索の「AI Mode」で、個人の情報を踏まえた回答を生成する「Personal Intelligence」の連携対象を拡大すると発表した。Google Walletとの連携を順次開始し、今後数週間でGoogl",
+   "link": "https://www.watch.impress.co.jp/docs/news/2158661.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【西田宗千佳のイマトミライ】Museに後れを取るアップルとグーグル　AIエージェント戦争のジレンマ",
+   "summary": "Metaの「Muse」をはじめとした、パーソナルAIエージェントの勢いが止まらない。",
+   "link": "https://www.watch.impress.co.jp/docs/series/nishida/2158551.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
