@@ -1,0 +1,347 @@
+{
+ "date": "2026-11-27",
+ "groups": [
+  {
+   "title": "AIエージェントの行動が「適切か暴走か」をどう見極める？　Googleが明かすテストの盲点",
+   "summary": "AIエージェントが期待通りに動作するかどうかを、どのように検証すればよいのか。GoogleはAIコーディングエージェント向けのプラグイン開発を通じて、最終回答に基づく評価や、実際に操作させるテストだけでは見抜けない問題があることを明らかにし",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「コスト削減」の“次”の成果、どう設定する？　ビジネス変革に結び付けるための「期待の中身」",
+   "summary": "ITRの調査によると、AI導入時に期待する効果として上位に並ぶのは「業務コストの削減」や「業務時間の短縮」でした。AIをビジネス変革の切り札とする企業は、AIの成果を問う前に、何を期待するかから見直す必要があると筆者は提言します。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news025.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "生成AI登場で人員増えた部門、減った部門は？　デロイト調査",
+   "summary": "デロイトが実施した調査で、企業における2026年のAI導入、活用状況が明らかになった。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/27/2000003505/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アマダと日立、AIエージェントのPoCで効果確認 フィジカルAIの現場実装へ",
+   "summary": "",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/27/news050.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Gemini 4 Neon」が実際の標高データからスキーシミュレーターを開発――Google公式が勧める利用例まとめ",
+   "summary": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003494/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GPT-6.2の使用量「誤って割引されていた」　修正後はAstraで上限に40％早く達する見込み",
+   "summary": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は「GPT-6.2 Astra」と「GPT-6.2 Sol」の使用量の計算に誤りがあり、実際よりも少なく計算されていたとXで明かした。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
+   "summary": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？　マネーフォワードに聞いた狙いと安全策",
+   "summary": "頼んでもいないのに、AIが朝一番にカードの引き落としと預金を照らし合わせて知らせてくる。家計簿アプリ「マネーフォワード ME」のデータがMetaのMuseに届くようになったからだ。だが家計の記録は、マネーフォワードにとって最大の資産のはず。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003490/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Claude Duet」日本でも開始　AnthropicのAIエージェント、研究プレビューを米国外に拡大",
+   "summary": "前にウェイトリストに登録していた「Pro」「Max」「Ultra」ユーザー向けに招待が届き始めており、「招待が来た」と報告する日本のユーザーが相次いでいる。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003483/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+   "summary": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
+   "summary": "米カリフォルニアやコネチカットなど41州とワシントンD.C.の司法長官は、破産申請した「Character.AI」の資産競売に異議を申し立てた。競売には未成年者の210万以上を含む2100万超のチャット履歴が含まれるが、買い手にデータ保護の",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
+   "summary": "検索から予約、決済まで自律的にこなす「AIエージェント」の普及で、旅行会社の存在意義が問われている。日本旅行業協会（JATA）主催のシンポジウムに旅行・食・IT・大手旅行会社のプロ4人が登壇。「おいしい」を味わう感覚や、顧客の言葉の裏にある",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
+   "summary": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidde",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
+   "summary": "Anthropicのダリオ・アモデイCEOは、超知能AIに人間の意思決定権を委ねるべきだと考えているとしたAxiosの報道をXで否定した。社会の統治と個別タスクの自動化を混同していると反論し、AIは民主的プロセスで管理されるべきだと強調した",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業",
+   "summary": "創業70周年を迎えた空研工業は、長年蓄積してきた図面や技術資料をAIで活用する「AIナレッジ基盤システム」をRecursiveと共同開発した。試行利用の結果を基にした試算では、図面検索工数を最大約90％削減する見通しで、業務効率化の先には技",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+   "summary": "政府策定の「造船業再生ロードマップ」では、AIとロボット技術を組み合わせたフィジカルAIによる建造工程の自動化が求められている。「造船業界におけるAI・ロボティクス普及に向けたシンポジウム」では、ジャパン マリンユナイテッドや川崎重工業、ソ",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "管理職の約7割が黙認するシャドーAIの現実　「相談すると禁止されそう」「承認が遅い」",
+   "summary": "企業が安全なAI環境を整備する一方で、現場では非公式なツールの利用がまん延している。ルールの順守よりも業務スピードを優先せざるを得ない現場のジレンマと、IT統制の限界が調査で浮き彫りになった。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/26/2000003428/",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
+   "summary": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフ",
+   "link": "https://gigazine.net/news/20261127-amd-epyc-performance/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
+   "summary": "アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。続きを読む.",
+   "link": "https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
+   "summary": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。続きを読む...",
+   "link": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
+   "summary": "AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議",
+   "link": "https://gigazine.net/news/20261126-muse-amazon-discuss/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「Anthropicのダリオ・アモデイCEOが人間の自由意志をAIに委ねようとしている」という報道を本人が真っ向から否定し「AIの未来は民主的なプロセスで決定されるべき」と明言",
+   "summary": "海外メディアのAxiosが2026年11月25日に「Anthropicのダリオ・アモデイCEOは人間の意思決定を高性能AIに委ねることを肯定している」と報じました。アモデイCEOは自身Xアカウントで報道内容を否定し、自身のAIについての考え",
+   "link": "https://gigazine.net/news/20261126-dario-amodei-ai-human/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開",
+   "summary": "OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けら",
+   "link": "https://gigazine.net/news/20261126-openai-matrix-multiplication/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIとアーカイブ録音で故サッカー解説者ジョン・モトソンを「EA SPORTS FC」で蘇らせる、家族の許可あり",
+   "summary": "2023年2月に亡くなったBBCのサッカー解説者であるジョン・モトソン氏の音声が、「EA SPORTS FC 27」に追加されることが発表されました。音声はEA SPORTSの「FIFA」シリーズ(EA SPORTS FCの前身)に1996",
+   "link": "https://gigazine.net/news/20261126-ai-john-motson/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "手書き文字やスケッチを生成できるAIモデル「PenGPT」",
+   "summary": "テキストから手書き文字やスケッチを生成する小型トランスフォーマー「PenGPT」を機械学習研究者のサム・グレイダナス氏が公開しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261126-pengpt/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す",
+   "summary": "半導体設計にAIを活用するスタートアップのArchitect Labsが、AIによってアーキテクチャの考案から設計、検証までを行った汎用CPU「Frostbite」を2026年11月18日に発表しました。Frostbiteは従来のCPUとは",
+   "link": "https://gigazine.net/news/20261126-frostbite-cpu/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光",
+   "summary": "Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています",
+   "link": "https://gigazine.net/news/20261126-cogentic-6-research-papers/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アメリカの規制当局がSpaceXの宇宙AIデータセンター設置計画を承認",
+   "summary": "アメリカ国内の放送通信事業の規制監督を行う連邦通信委員会(FCC)が、イーロン・マスク氏率いる宇宙開発企業であるSpaceXの「宇宙AIデータセンター」設置計画を承認しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261126-fcc-approves-spacex-plan-ai-data-centers-space/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIチャットボット搭載おもちゃの製造・流通・販売を5年間停止する法律にニューヨーク州知事が署名",
+   "summary": "ホリデーシーズンで買い物需要が高まるのに先駆けて、「AIチャットボット搭載おもちゃをニューヨーク州内で製造・流通・販売することを5年間停止する」という法律に、キャシー・ホークル知事が署名しました。法律の発効は署名から90日後でホリデーシーズ",
+   "link": "https://gigazine.net/news/20261126-new-york-state-bans-ai-toys/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "Kimi K3をベースにコーディング能力を増強したAIモデル「SWE-2.1」が登場",
+   "summary": "アメリカに拠点を置くAI開発企業のCognitionがAIモデル「SWE-2.1」を現地時間の2026年11月24日に発表しました。中国製AIモデル「Kimi K3」をベースに開発されており、コーディング能力が大幅に引き上げられています。続",
+   "link": "https://gigazine.net/news/20261126-swe-2-1-coding-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開",
+   "summary": "AI企業のAnthropicが、AIモデル「Claude」を外部から利用するための「Messages API」をPythonからRustに移植した際の開発手法を公開しました。AnthropicはClaudeを活用して移植を進め、2026年9",
+   "link": "https://gigazine.net/news/20261126-anthropic-claude-api-rust/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "海外の音楽配信サービス、AI生成楽曲の一律禁止を発表。約2700万曲を削除へ【やじうまWatch】",
+   "summary": "海外の音楽配信サービス「TIDAL」がAI生成楽曲を一律禁止し、約2700万曲を削除すると発表し、話題になっている。",
+   "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2159409.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "パンフレットを「Gemini Notebook」に取り込んで旅行計画を練る！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】",
+   "summary": "バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。",
+   "link": "https://internet.watch.impress.co.jp/docs/column/homewifi/2158748.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI導入で皆がつまずくRAGの品質を徹底改善、業務で即実用できるレベルに達したAI基盤「InfiniCloud AI」[Sponsored]",
+   "summary": "資料を入れて質問すれば、自社の情報を使ってAIが答えてくれる。いわゆる狭義のRAGを実現する手軽なAIツールの登場で、自社のナレッジを活用するための敷居は下がった。しかし、実際に業務で本格活用しようとすると、この仕組みは思った以上に手ごわい",
+   "link": "https://internet.watch.impress.co.jp/docs/topic/special/2154889.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【鈴木淳也のPay Attention】「AIが買い物」は実現するか? エージェントコマースに必要な12カ月の助走",
+   "summary": "本連載でVisaが取り組む最新の「エージェンティック・コマース(Agentic Commerce)」(エージェントコマース)事情についてレポートしたのが今年7月のことだ。",
+   "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2158785.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "同期忘れをなくすAIレコーダ決定版「Notta Memo Pro」が25%OFFに　文字起こし月30時間増量[Sponsored]",
+   "summary": "会議や商談の録音から文字起こし、要約までを任せられるAIボイスレコーダ。議事録作成などの手間を減らせる、便利なビジネスツールとして深く浸透しつつあります。",
+   "link": "https://www.watch.impress.co.jp/docs/topic/special/2155610.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ダークパターン被害は年最大3.2兆円　相次ぐ漏えいによる二次被害に警鐘",
+   "summary": "ダークパターン対策協会は26日、相次ぐ個人情報漏えいを背景に、ダークパターンを悪用した二次被害への注意を呼び掛けたほか、2027年春をめどに、企業が自社のWebサイトのダークパターンを診断できるAIツールを開発していることを明らかにした。",
+   "link": "https://www.watch.impress.co.jp/docs/news/2159540.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "DeepL、より自然なAI音声翻訳「Aure v2」　翻訳の遅延を50%削減",
+   "summary": "DeepLは26日、イベント「Unmute Tokyo 26」で音声AIモデル「Aure v2」を発表した。DeepL Voiceユーザー向けに提供開始し、前モデル「Aure」と比較して翻訳の遅延を50%削減し、翻訳精度と表現力を高めている",
+   "link": "https://www.watch.impress.co.jp/docs/news/2159451.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
