@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-28",
+ "groups": [
+  {
+   "title": "AIリスク監査の実施、わずか5.7％　内部監査が追い付かない「もう一つのリスク」とは？",
+   "summary": "ある調査によると、今後重要性が高まるリスクとして「AI・生成AI」を挙げた回答は半数を超えた。一方、AIのリスクに関する内部監査を「すでに実施」を選んだ回答者は5.7％にとどまる。同調査からは、内部監査が追い切れていない、AI以外の領域も浮",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
+   "source": "ITmedia AI+",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始　その内容とは？",
+   "summary": "生成AIを導入しても、現場の業務に生かせないと成果にはつながらない。電通は約3000人を対象に、「Gemini Enterprise」を使いこなし、現場での生成AI活用を推進できる人材の育成を始めた。人材をどう育てるのか。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIエージェントの行動が「適切か暴走か」をどう見極める？　Googleが明かすテストの盲点",
+   "summary": "AIエージェントが期待通りに動作するかどうかを、どのように検証すればよいのか。GoogleはAIコーディングエージェント向けのプラグイン開発を通じて、最終回答に基づく評価や、実際に操作させるテストだけでは見抜けない問題があることを明らかにし",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「コスト削減」の“次”の成果、どう設定する？　ビジネス変革に結び付けるための「期待の中身」",
+   "summary": "ITRの調査によると、AI導入時に期待する効果として上位に並ぶのは「業務コストの削減」や「業務時間の短縮」でした。AIをビジネス変革の切り札とする企業は、AIの成果を問う前に、何を期待するかから見直す必要があると筆者は提言します。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news025.html",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "生成AI登場で人員増えた部門、減った部門は？　デロイト調査",
+   "summary": "デロイトが実施した調査で、企業における2026年のAI導入、活用状況が明らかになった。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/27/2000003505/",
+   "source": "ITmedia AI+",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "アマダと日立、AIエージェントのPoCで効果確認 フィジカルAIの現場実装へ",
+   "summary": "アマダと日立製作所は、AIエージェントとフィジカルAIの実装により、アマダのユーザー工場の自律化とアマダの保守サービスのさらなる高度化に向けた協創を加速する。",
+   "link": "https://monoist.itmedia.co.jp/mn/articles/2611/27/news050.html",
+   "source": "ITmedia AI+",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AI音声による虚偽通報が深刻化",
+   "summary": "人間の声色と変わらないAI音声が登場したことで、警察への虚偽通報が相次いでいることがアメリカで問題視されていると、海外メディアのNPRが報じています。続きを読む...",
+   "link": "https://gigazine.net/news/20261128-fake-911-call-ai/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+   "summary": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針",
+   "link": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "「AIは信用できない」と考えている人でもAIのアドバイスに影響されてしまうという研究結果",
+   "summary": "AIが生成する回答には誤った情報が含まれることもあるため、「AIよりも人間のアドバイスを信用する」という人も多いはず。ところが、AIを信用していない人であっても実際に意思決定を行う際にはAIのアドバイスに影響されてしまうことがイギリスのロン",
+   "link": "https://gigazine.net/news/20261127-ai-doesnt-deter/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
+   "summary": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経",
+   "link": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く",
+   "summary": "中国のAI企業であるMiniMaxが展開するAIアプリ「Talkie」がApp Storeから削除されました。Appleは削除の理由を「性的コンテンツが原因」と説明しています。続きを読む...",
+   "link": "https://gigazine.net/news/20261127-talkie-ai-chat-app/",
+   "source": "GIGAZINE",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
+   "summary": "NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月2",
+   "link": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/",
+   "source": "GIGAZINE",
+   "category": "dark",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
+   "summary": "NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。続きを読む...",
+   "link": "https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+   "summary": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長",
+   "link": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
+   "summary": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフ",
+   "link": "https://gigazine.net/news/20261127-amd-epyc-performance/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
+   "summary": "アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。続きを読む.",
+   "link": "https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/",
+   "source": "GIGAZINE",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "iFLYTEKのAI電子ノートやボイスレコーダーが安い！ Amazonブラックフライデー　手書き入力や音声文字起こしもできる10.65インチ電子ノートが7万8800円から",
+   "summary": "Amazon.co.jpでは11月30日から期間限定のビッグセール「ブラックフライデー」を開催。それに先駆けて27日より先行セールを開始している。",
+   "link": "https://internet.watch.impress.co.jp/docs/shopping/2159817.html",
+   "source": "INTERNET Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "【鈴木淳也のPay Attention】「AIが買い物」は実現するか? エージェントコマースに必要な12カ月の助走",
+   "summary": "本連載でVisaが取り組む最新の「エージェンティック・コマース(Agentic Commerce)」(エージェントコマース)事情についてレポートしたのが今年7月のことだ。",
+   "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2158785.html",
+   "source": "Impress Watch",
+   "category": "bright",
+   "count": 1,
+   "others": []
+  },
+  {
+   "title": "同期忘れをなくすAIレコーダ決定版「Notta Memo Pro」が25%OFFに　文字起こし月30時間増量[Sponsored]",
+   "summary": "会議や商談の録音から文字起こし、要約までを任せられるAIボイスレコーダ。議事録作成などの手間を減らせる、便利なビジネスツールとして深く浸透しつつあります。",
+   "link": "https://www.watch.impress.co.jp/docs/topic/special/2155610.html",
+   "source": "Impress Watch",
+   "category": "neutral",
+   "count": 1,
+   "others": []
+  }
+ ]
+}
